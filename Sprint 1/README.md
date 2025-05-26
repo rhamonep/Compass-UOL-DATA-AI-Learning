@@ -1,8 +1,7 @@
 # Resumo
 
-Nessa Sprint 1, na Semana 1 tivemos pudemos aprender sobre os fundamentos da seguranção da informação, 
-
-na Semana 1 tivemos introdução ao SCRUM aonde pude aprender sobre os métodos ágeis, e como seria aplicado ao longo do programa de bolsas.
+Nessa Sprint 1, na Semana 1 tivemos pudemos aprender sobre os fundamentos da seguranção da informação, a respeito de boas práticas e cuidados a serem tomados durante o ambiente de trabalho. 
+Em seguida, introdução ao SCRUM, método ágil ao qual será utilizado no dercorrer do curso e no foi possível entender o seu funcionamento e os benefícios que ele traz.
 
 # Desafio
 
