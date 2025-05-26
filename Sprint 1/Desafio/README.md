@@ -1,26 +1,18 @@
-# Instruções
-
-Neste arquivo você apresentará suas entregas referentes ao desafio. Utilize o diretório "Desafio" para organizar seus artefatos e este README.md para fazer referência aos arquivos de código-fonte e demais entregáveis solicitados.
-
-Esperamos que haja, minimamente:
-
-- Passo a passo para obter o resultado entregue do desafio.
-- Trechos de códigos e suas explicações.
-- Relacionamento com a pasta de evidências (imagens).
-
-
 # Etapas
 
+1. [Etapa I](./Arquivos/etapa1.sql)
 
-1. ... [Etapa I](etapa-1)
+2. [Etapa II](./Arquivos/etapa2.sql)
 
-    Nessa etapa pode-se perceber com esse código:
-    ```
-    Esta é uma linha de código
-    ```
-    Obtive esse retorno
-    ![amostra](../Evidencias/sample.webp)
+## Problema apresentado
 
+Dada uma base de dados de uma locadora NÃO normalizada, devemos aplicar as formas normais (3FN) e convertê-lo para o Modelo Relacional e depois do Modelo Relacional para o Modelo DImensional.
+
+## Base de dados - Locadora
+
+![amostra](../Evidencias/tb_locacao_atributos.png)
+
+Após o download da base de dados, usando o DBeaver, foi possível observar cada um dos atributos dessa tabela. Seguindo 
 
 
 
