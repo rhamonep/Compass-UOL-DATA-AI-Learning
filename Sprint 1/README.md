@@ -9,6 +9,7 @@
 - Além do versionamento através do Git, fomos instruídos a respeito da utilização do **Markdown** para criação dos README.ME, no qual estará todo o detalhamento e explicações sobre as entregas, de forma a utilizar seus recursos para estruturação e organização de forma adequada, seguindo o modelo padrão mostrado pelo instrutor.
 
 - Após essa fase mais introdutória, tivemos o curso que abordou desde o básico até o avançado de **SQL e Modelagem**, assunto tratado nos exercícios e desafio. Com o curso da Udemy de SQL, pude relembrar os conceitos e utlizações da linguagem para realização multiplas operações com as tabelas, desde os comandos básicos, operadores e funções agregadas até o entendimento do uso de join, union, subqueries, tratamento de dados e manipulação de tabelas. Com os exercícios resolvidos foi possível praticar e verificar o entendimento, no qual permitiu desenvolver a habilidade prática na forma de pensar, para realizar as consultas que entregam o resultado esperado. Isso permitiu uma familiarização com o SQL e facilitou na resolução dos exercícios a serem entregues, assim como na abordagem para solução do desafio.
+- As aulas de modelagem relacional e modelagem dimensional, além de nos permitirem a ter uma ideia de como abordar o desafio, transmitiram conceitos práticos que são utilizados em qualquer base de dados. 
 
 # Desafio
 
