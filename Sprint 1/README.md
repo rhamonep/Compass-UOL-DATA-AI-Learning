@@ -1,10 +1,12 @@
 # Resumo
 
-Nessa Sprint 1, na Semana 1 tivemos introdução ao Scrum, uso de ferramenta do GitHub e Markdown. A semana 2 foi referente a banco de dados e estudo do SQL, com o desafio referente ao assunto.
+Nessa Sprint 1, na Semana 1 tivemos pudemos aprender sobre os fundamentos da seguranção da informação, 
+
+na Semana 1 tivemos introdução ao SCRUM aonde pude aprender sobre os métodos ágeis, e como seria aplicado ao longo do programa de bolsas.
 
 # Desafio
 
-- [Arquvos](./Desafio/Arquivos/)
+- [Arquivos](./Desafio/Arquivos/)
 - [README.MD](./Desafio/README.md)
 
 # Exercícios
