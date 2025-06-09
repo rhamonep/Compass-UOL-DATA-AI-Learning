@@ -30,5 +30,6 @@ ___
 ## Sprints 
 
 - [Sprint 1](/Sprint%201/README.md)
+- [Sprint 2](/Sprint%202/README.md)
 
 ___
