@@ -1,5 +1,21 @@
 # Resumo
 
+- Nesta sprint, os estudos foram voltados para **Docker** e **AWS**, tecnologias fundamentais no desenvolvimento e na implantação de aplicações modernas em ambientes reais.
+
+- Com os conhecimentos de Docker e AWS, foi possível entender como empacotar aplicações localmente e também como prepará-las para rodar em ambientes de produção na nuvem
+
+## Docker
+
+- Começamos com o **Docker**, entendendo o que são containers, imagens, volumes e redes, além de como essas ferramentas ajudam a criar ambientes leves, portáteis e padronizados.
+- Na prática, aprendemos a **criar e gerenciar containers**, escrever nossos próprios **Dockerfiles** para gerar imagens personalizadas e usar volumes para salvar dados fora do container.
+- Também exploramos como os containers se comunicam usando **redes Docker**, e como gerenciar vários serviços ao mesmo tempo com o **Docker Compose**, através de arquivos `.yml`.
+- Além disso, vimos os primeiros conceitos de orquestração com **Docker Swarm** e **Kubernetes**, entendendo como escalar aplicações e manter tudo funcionando em conjunto.
+
+## AWS
+
+- No curso *AWS Partner: Accreditation (Technical)*, tivemos uma visão geral da plataforma AWS e dos pilares do **Well-Architected Framework**, como segurança, desempenho e otimização de custos.
+- Já no *AWS Technical Essentials*, conhecemos os principais serviços da AWS, como **EC2**, **S3**, **RDS**, **IAM**, **Lambda** e **VPC**, aprendendo a configurar e gerenciar recursos tanto pelo console quanto pela **AWS CLI**.
+- Esses aprendizados deram uma boa base para trabalhar com aplicações em nuvem, desde a criação do ambiente até a implantação e escalabilidade com boas práticas.
 
 
 # Desafio
@@ -9,12 +25,36 @@
 
 # Exercícios
 
+
+
 ## Etapa 1
+
+Construir uma imagem Docker a partir de um `Dockerfile` que executasse o script `carguru.py`.  
+
+Após a criação, execute um container a partir da imagem criada.
+
+### ENTREGÁVEIS
 
 - [Carguru.py](./Exercicios/Etapa%201/carguru.py)
 - [Dockerfile](./Exercicios/Etapa%201/Dockerfile)
 
 ## Etapa 2
+
+Criar um novo script Python que implementa o algoritmo a seguir:
+
+1. Receber uma string via input.
+
+2. Gerar o hash da string por meio do algoritmo SHA-1.
+
+3. Imprimir o hash em tela, utilizando o método hexdigest.
+
+4. Retornar ao passo 1.
+
+Criar uma imagem Docker chamada mascarar-dados que execute o script Python criado anteriormente.
+
+Iniciar um container a partir da imagem, enviando algumas palavras para mascaramento.
+
+### ENTREGÁVEIS
 
 - [mascara-dados.py](./Exercicios/Etapa%202/mascara-dados.py)
 - [Dockerfile](./Exercicios/Etapa%202/Dockerfile)
