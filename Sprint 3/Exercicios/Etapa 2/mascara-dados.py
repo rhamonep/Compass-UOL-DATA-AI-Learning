@@ -14,3 +14,4 @@ while True:
 
         print(
             "\nErro: entrada inesperada (possivelmente executado sem terminal interativo).")
+        break
