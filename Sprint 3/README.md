@@ -23,11 +23,29 @@
 
 Aqui vão constar as evidências da execução com sucesso dos exercícios
 
-## Etapa 1
+## Etapa 1: carguru.py
 
+Abaixo está a evidência do código sendo rodado localmente afim de verificar seu funcionamento:
 
-## Etapa 2
+![exec_local](./Exercicios/Evidencias/Etapa%201/exec_local.png)
 
+Agora sendo criado a imagem e rodando no container:
+
+![exec_docker](./Exercicios/Evidencias/Etapa%201/exec_docker.png)
+
+## Etapa 2: mascara-dados
+
+Abaixo está a evidência do código sendo rodado localmente afim de verificar seu funcionamento:
+
+![exec_local](./Exercicios/Evidencias/Etapa%202/exec_local.png)
+
+Agora sendo criado a imagem e rodando no container:
+
+![exec_docker_1](./Exercicios/Evidencias/Etapa%202/exec_docker_1.png)
+
+Pode-se ver a necessidade de rodar como terminal iterativo para receber entradas pelo teclado. Agora usando o -it:
+
+![exec_docker_?](./Exercicios/Evidencias/Etapa%202/exec_docker_2.png)
 
 
 # Certificados
