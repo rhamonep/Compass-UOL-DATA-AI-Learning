@@ -1,0 +1,17 @@
+services:
+  etl:
+    build: ./etl
+    env_file: .env
+    volumes:
+      - ./etl/data:/etl/data       
+      - .${VOLUME_DIR}:${VOLUME_DIR}
+    command: ["python", "etl.py"]
+
+  job:
+    build: ./job
+    env_file: .env
+    depends_on:
+      - etl
+    volumes:
+      - .${VOLUME_DIR}:${VOLUME_DIR}
+    command: ["python", "job.py"]
