@@ -16,12 +16,17 @@
 
 ## Etapa 2
 
-- [mascara-dados.py](./Exercicios/Etapa%202/gera_hash.py)
-- [Dockerfile](./Exercicios/Etapa%201/Dockerfile)
-
+- [mascara-dados.py](./Exercicios/Etapa%202/mascara-dados.py)
+- [Dockerfile](./Exercicios/Etapa%202/Dockerfile)
 
 # Evidências
 
+Aqui vão constar as evidências da execução com sucesso dos exercícios
+
+## Etapa 1
+
+
+## Etapa 2
 
 
 
