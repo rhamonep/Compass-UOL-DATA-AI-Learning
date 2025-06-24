@@ -1,0 +1,14 @@
+
+Q1:
+--- "Taylor Swift" foi o artista que mais apareceu e teve a maior média de seu faturamento bruto, alcançando $381,518,786.50
+
+Q2:
+--- Entre as turnês realizadas em um ano, a "Renaissance World Tour" teve a maior média de faturamento bruto, com $10,353,571.00
+
+Q3:
+--- As 3 turnês com os shows unitários mais lucrativos foram:
+
+1. "The Eras Tour", do artista "Taylor Swift", teve um faturamento médio de $13,928,571.43 por show.
+2. "Renaissance World Tour", do artista "Beyoncé", teve um faturamento médio de $10,353,571.43 por show.
+3. "Reputation Stadium Tour", do artista "Taylor Swift", teve um faturamento médio de $7,600,846.21 por show.
+
