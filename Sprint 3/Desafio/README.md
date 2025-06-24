@@ -16,78 +16,80 @@ Toda a solução precisa rodar dentro de containers Docker, que vão se comunica
 
 ## Etapa I - etl.py
 
-![alt text](../Evidencias/image-0.png)
+![e1-imports](../Evidencias/e1-imports.png)
 
-![alt text](../Evidencias/image.png)
+![e1-badlines](../Evidencias/e1-badlines.png)
 
-![alt text](../Evidencias/image-1.png)
+![e1-leitura](../Evidencias/e1-leitura.png)
 
-![alt text](../Evidencias/image-2.png)
+![e1-regex-ref](../Evidencias/e1-regex-ref.png)
 
-![alt text](../Evidencias/image-3.png)
+![e1-regex-ref-result](../Evidencias/e1-regex-ref-result.png)
 
-![alt text](../Evidencias/image-4.png)
+![e1-regex-title](../Evidencias/e1-regex-title.png)
 
-![alt text](../Evidencias/image-5.png)
+![e1-split-year](../Evidencias/e1-split-year.png)
 
-![alt text](../Evidencias/image-6.png)
+![e1-format-types](../Evidencias/e1-format-types.png)
 
-![alt text](../Evidencias/image-7.png)
+![e1-format-types-result](../Evidencias/e1-format-types-result.png)
 
-![alt text](../Evidencias/image-10.png)
+![e1-rename-fix-column](../Evidencias/e1-rename-fix-column.png)
 
-![alt text](../Evidencias/image-8.png)
+![e1-result-expected](../Evidencias/e1-result-expected.png)
 
-![alt text](../Evidencias/image-9.png)
+![e1-rename-fix-column-result](../Evidencias/e1-rename-fix-column-result.png)
 
 ## Etapa II - job.py
 
-![alt text](../Evidencias/image-11.png)
+![e2-imports](../Evidencias/e2-imports.png)
 
-![alt text](../Evidencias/image-12.png)
+![e2-leitura](../Evidencias/e2-leitura.png)
 
-![alt text](../Evidencias/image-13.png)
+![e2-funcao-escrita](../Evidencias/e2-funcao-escrita.png)
 
-![alt text](../Evidencias/image-15.png)
+![e2-criacao-txt](../Evidencias/e2-criacao-txt.png)
 
-![alt text](../Evidencias/image-14.png)
+![e2-criacao-txt-result](../Evidencias/e2-criacao-txt-result.png)
 
-![alt text](../Evidencias/image-16.png)
+![e2-q1](../Evidencias/e2-q1.png)
 
-![alt text](../Evidencias/image-17.png)
+![e2-q1-result](../Evidencias/e2-q1-result.png)
 
-![alt text](../Evidencias/image-18.png)
+![e2-q2](../Evidencias/e2-q2.png)
 
-![alt text](../Evidencias/image-19.png)
+![e2-q2-result](../Evidencias/e2-q2-result.png)
 
-![alt text](../Evidencias/image-20.png)
+![e2-q3](../Evidencias/e2-q3.png)
 
-![alt text](../Evidencias/image-21.png)
+![e2-q3-result](../Evidencias/e2-q3-result.png)
 
-![alt text](../Evidencias/image-37.png)
+![e2-q4](../Evidencias/e2-q4.png)
 
-![alt text](../Evidencias/image-23.png)
+![e2-q4-grafico](../Evidencias/e2-q4-grafico.png)
 
-![alt text](../Evidencias/image-24.png)
+![e2-q4-grafico-result](../Evidencias/e2-q4-grafico-result.png)
 
-![alt text](../Evidencias/image-25.png)
+![e2-q5](../Evidencias/e2-q5.png)
 
-![alt text](../Evidencias/image-26.png)
+![e2-q5-grafico](../Evidencias/e2-q5-grafico.png)
+
+![e2-q5-grafico-result](../Evidencias/e2-q5-grafico-result.png)
 
 ## Etapa III - docker-compose.yml
 
-![alt text](../Evidencias/image-36.png)
+![e3-estrutura](../Evidencias/e3-estrutura.png)
 
-![alt text](../Evidencias/image-27.png)
+![e3-dockerfile-etl](../Evidencias/e3-dockerfile-etl.png)
 
-![alt text](../Evidencias/image-28.png)
+![e3-dockerfile-job](../Evidencias/e3-dockerfile-job.png)
 
-![alt text](../Evidencias/image-29.png)
+![/e3-env](../Evidencias/e3-env.png)
 
-![alt text](../Evidencias/image-30.png)
+![e3-docker-compose](../Evidencias/e3-docker-compose.png)
 
-![alt text](../Evidencias/image-32.png)
+![e3-resultado-build](../Evidencias/e3-resultado-build.png)
 
-![alt text](../Evidencias/image-33.png)
+![e3-resultado-up](../Evidencias/e3-resultado-up.png)
 
-![alt text](../Evidencias/image-34.png)
+![e3-resultado-volume](../Evidencias/e3-resultado-volume.png)
