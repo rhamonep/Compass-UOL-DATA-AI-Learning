@@ -16,8 +16,78 @@ Toda a solução precisa rodar dentro de containers Docker, que vão se comunica
 
 ## Etapa I - etl.py
 
+![alt text](../Evidencias/image-0.png)
+
+![alt text](../Evidencias/image.png)
+
+![alt text](../Evidencias/image-1.png)
+
+![alt text](../Evidencias/image-2.png)
+
+![alt text](../Evidencias/image-3.png)
+
+![alt text](../Evidencias/image-4.png)
+
+![alt text](../Evidencias/image-5.png)
+
+![alt text](../Evidencias/image-6.png)
+
+![alt text](../Evidencias/image-7.png)
+
+![alt text](../Evidencias/image-10.png)
+
+![alt text](../Evidencias/image-8.png)
+
+![alt text](../Evidencias/image-9.png)
+
 ## Etapa II - job.py
+
+![alt text](../Evidencias/image-11.png)
+
+![alt text](../Evidencias/image-12.png)
+
+![alt text](../Evidencias/image-13.png)
+
+![alt text](../Evidencias/image-15.png)
+
+![alt text](../Evidencias/image-14.png)
+
+![alt text](../Evidencias/image-16.png)
+
+![alt text](../Evidencias/image-17.png)
+
+![alt text](../Evidencias/image-18.png)
+
+![alt text](../Evidencias/image-19.png)
+
+![alt text](../Evidencias/image-20.png)
+
+![alt text](../Evidencias/image-21.png)
+
+![alt text](../Evidencias/image-22.png)
+
+![alt text](../Evidencias/image-23.png)
+
+![alt text](../Evidencias/image-24.png)
+
+![alt text](../Evidencias/image-25.png)
+
+![alt text](../Evidencias/image-26.png)
 
 ## Etapa III - docker-compose.yml
 
-## Resultados
+![alt text](../Evidencias/image-36.png)
+
+![alt text](../Evidencias/image-27.png)
+
+![alt text](../Evidencias/image-28.png)
+
+![alt text](../Evidencias/image-29.png)
+
+![alt text](../Evidencias/image-30.png)
+
+![alt text](../Evidencias/image-32.png)
+
+![alt text](../Evidencias/image-33.png)
+
+![alt text](../Evidencias/image-34.png)
