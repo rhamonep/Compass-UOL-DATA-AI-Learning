@@ -123,8 +123,6 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 # Evidências do Lab AWS Athena
 
-# Evidências do Lab AWS Athena
-
 ![athena_l_cabecalho_csv](./Exercicios/Lab%20AWS%20Athena/athena_1_cabecalho_csv.png)
 
 ![athena_2_queries_criacao](./Exercicios/Lab%20AWS%20Athena/athena_2_queries_criacao.png)
@@ -159,8 +157,6 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 
 ## Etapa 3 - Lab AWS Lambda
-
-# Evidências do Lab AWS Lambda
 
 ![lambda_l_criar_func](./Exercicios/Lab%20AWS%20Lambda/lambda_1_criar_func.png)
 
@@ -239,10 +235,7 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 ![lambda_40_lambda_function_sucesso](./Exercicios/Lab%20AWS%20Lambda/lambda_40_lambda_function_sucesso.png)
 
 
-
 ## Etapa 4 - Limpeza de Recursos
-
-# Evidências do Lab AWS Limpeza de Recursos
 
 ![limpeza_l_excluir_func](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_10_excluir_bucket_exito.png)
 
