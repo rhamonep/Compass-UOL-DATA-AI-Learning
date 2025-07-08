@@ -28,8 +28,6 @@ Abertura do preview do CSV para visualização dos dados para elaboração das a
 
 ![Captura de tela 2025-07-07 215115](../Evidencias/Captura%20de%20tela%202025-07-07%20215115.png)
 
-![Captura de tela 2025-07-07 215120](../Evidencias/Captura%20de%20tela%202025-07-07%20215120.png)
-
 ![Captura de tela 2025-07-07 215149](../Evidencias/Captura%20de%20tela%202025-07-07%20215149.png)
 
 ![Captura de tela 2025-07-07 215201](../Evidencias/Captura%20de%20tela%202025-07-07%20215201.png)
@@ -61,7 +59,6 @@ Abertura do preview do CSV para visualização dos dados para elaboração das a
 
 ![Captura de tela 2025-07-07 215637](../Evidencias/Captura%20de%20tela%202025-07-07%20215637.png)
 
-
 ![Captura de tela 2025-07-07 215653](../Evidencias/Captura%20de%20tela%202025-07-07%20215653.png)
 
 ![Captura de tela 2025-07-07 215716](../Evidencias/Captura%20de%20tela%202025-07-07%20215716.png)
@@ -73,7 +70,6 @@ Abertura do preview do CSV para visualização dos dados para elaboração das a
 ![Captura de tela 2025-07-07 215813](../Evidencias/Captura%20de%20tela%202025-07-07%20215813.png)
 
 ![Captura de tela 2025-07-07 215825](../Evidencias/Captura%20de%20tela%202025-07-07%20215825.png)
-
 
 ![Captura de tela 2025-07-07 215842](../Evidencias/Captura%20de%20tela%202025-07-07%20215842.png)
 
