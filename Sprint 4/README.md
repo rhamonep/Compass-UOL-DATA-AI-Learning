@@ -238,6 +238,26 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 ## Etapa 4 - Limpeza de Recursos
 
+![Captura de tela 2025-07-07 121734](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121734.png)
+
+![Captura de tela 2025-07-07 121739](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121739.png)
+
+![Captura de tela 2025-07-07 121807](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121807.png)
+
+![Captura de tela 2025-07-07 121844](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121844.png)
+
+![Captura de tela 2025-07-07 121906](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121906.png)
+
+![Captura de tela 2025-07-07 121938](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121938.png)
+
+![Captura de tela 2025-07-07 121958](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121958.png)
+
+![Captura de tela 2025-07-07 122013](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20122013.png)
+
+![Captura de tela 2025-07-07 122019](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20122019.png)
+
+![Captura de tela 2025-07-07 122035](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20122035.png)
+
 
 # Certificados
 
