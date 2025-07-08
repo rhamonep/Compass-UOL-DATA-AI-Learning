@@ -17,39 +17,40 @@ A solução será dividida em duas etapas principais, desenvolvidas em Notebooks
 
 Abertura do preview do CSV para visualização dos dados para elaboração das análises.
 
-![Captura de tela 2025-07-07 214923](../Evidencias/Captura%20de%20tela%202025-07-07%20214923.png)
+![e1_1](../Evidencias/e1_1.png)
 
+![e1_2](../Evidencias/e1_2.png)
 
-![Captura de tela 2025-07-07 215049](../Evidencias/Captura%20de%20tela%202025-07-07%20215049.png)
+![e1_3](../Evidencias/e1_3.png)
 
-![Captura de tela 2025-07-07 215053](../Evidencias/Captura%20de%20tela%202025-07-07%20215053.png)
+![e1_4](../Evidencias/e1_4.png)
 
-![Captura de tela 2025-07-07 215111](../Evidencias/Captura%20de%20tela%202025-07-07%20215111.png)
+![e1_5](../Evidencias/e1_5.png)
 
-![Captura de tela 2025-07-07 215115](../Evidencias/Captura%20de%20tela%202025-07-07%20215115.png)
+![e1_6](../Evidencias/e1_6.png)
 
-![Captura de tela 2025-07-07 215149](../Evidencias/Captura%20de%20tela%202025-07-07%20215149.png)
+![e1_7](../Evidencias/e1_7.png)
 
-![Captura de tela 2025-07-07 215201](../Evidencias/Captura%20de%20tela%202025-07-07%20215201.png)
+![e1_8_1](../Evidencias/e1_8_1.png)
 
-![Captura de tela 2025-07-07 222027](../Evidencias/Captura%20de%20tela%202025-07-07%20222027.png)
+![e1_8_2](../Evidencias/e1_8_2.png)
 
-![Captura de tela 2025-07-07 215310](../Evidencias/Captura%20de%20tela%202025-07-07%20215310.png)
+![e1_9](../Evidencias/e1_9.png)
 
-![Captura de tela 2025-07-07 215336](../Evidencias/Captura%20de%20tela%202025-07-07%20215336.png)
+![e1_10](../Evidencias/e1_10.png)
 
-![Captura de tela 2025-07-07 215515](../Evidencias/Captura%20de%20tela%202025-07-07%20215515.png)
+![e1_11](../Evidencias/e1_11.png)
 
+![e1_12](../Evidencias/e1_12.png) 
 
-![Captura de tela 2025-07-07 215537](../Evidencias/Captura%20de%20tela%202025-07-07%20215537.png)
+![e1_13](../Evidencias/e1_13.png)
 
-![Captura de tela 2025-07-07 215547](../Evidencias/Captura%20de%20tela%202025-07-07%20215547.png)
+![e1_14](../Evidencias/e1_14.png)
 
-![Captura de tela 2025-07-07 215556](../Evidencias/Captura%20de%20tela%202025-07-07%20215556.png)
+![e1_15](../Evidencias/e1_15.png)
 
-![Captura de tela 2025-07-07 215603](../Evidencias/Captura%20de%20tela%202025-07-07%20215603.png)
+![e1_16](../Evidencias/e1_16.png)
 
-![Captura de tela 2025-07-07 215615](../Evidencias/Captura%20de%20tela%202025-07-07%20215615.png)
 
 ---
 
@@ -57,82 +58,80 @@ Abertura do preview do CSV para visualização dos dados para elaboração das a
 
 ---
 
-![Captura de tela 2025-07-07 215637](../Evidencias/Captura%20de%20tela%202025-07-07%20215637.png)
+![e2_1](../Evidencias/e2_1.png)
 
-![Captura de tela 2025-07-07 215653](../Evidencias/Captura%20de%20tela%202025-07-07%20215653.png)
+![e2_2](../Evidencias/e2_2.png)
 
-![Captura de tela 2025-07-07 215716](../Evidencias/Captura%20de%20tela%202025-07-07%20215716.png)
+![e2_3](../Evidencias/e2_3.png)
 
-![Captura de tela 2025-07-07 215752](../Evidencias/Captura%20de%20tela%202025-07-07%20215752.png)
+![e2_4](../Evidencias/e2_4.png)
 
-![Captura de tela 2025-07-07 215803](../Evidencias/Captura%20de%20tela%202025-07-07%20215803.png)
+![e2_5](../Evidencias/e2_5.png)
 
-![Captura de tela 2025-07-07 215813](../Evidencias/Captura%20de%20tela%202025-07-07%20215813.png)
+![e2_6](../Evidencias/e2_6.png)
 
-![Captura de tela 2025-07-07 215825](../Evidencias/Captura%20de%20tela%202025-07-07%20215825.png)
+![e2_7](../Evidencias/e2_7.png)
 
-![Captura de tela 2025-07-07 215842](../Evidencias/Captura%20de%20tela%202025-07-07%20215842.png)
+![e2_8](../Evidencias/e2_8.png)
 
-![Captura de tela 2025-07-07 215852](../Evidencias/Captura%20de%20tela%202025-07-07%20215852.png)
+![e2_9](../Evidencias/e2_9.png)
 
-![Captura de tela 2025-07-07 215904](../Evidencias/Captura%20de%20tela%202025-07-07%20215904.png)
+![e2_10](../Evidencias/e2_10.png)
 
-![Captura de tela 2025-07-07 215912](../Evidencias/Captura%20de%20tela%202025-07-07%20215912.png)
+![e2_11](../Evidencias/e2_11.png)
 
-![Captura de tela 2025-07-07 215922](../Evidencias/Captura%20de%20tela%202025-07-07%20215922.png)
+![e2_12](../Evidencias/e2_12.png)
 
-![Captura de tela 2025-07-07 215931](../Evidencias/Captura%20de%20tela%202025-07-07%20215931.png)
+![e2_13](../Evidencias/e2_13.png)
 
-![Captura de tela 2025-07-07 215953](../Evidencias/Captura%20de%20tela%202025-07-07%20215953.png)
+![e2_14](../Evidencias/e2_14.png)
 
-![Captura de tela 2025-07-07 220020](../Evidencias/Captura%20de%20tela%202025-07-07%20220020.png)
+![e2_15](../Evidencias/e2_15.png)
 
-![Captura de tela 2025-07-07 220030](../Evidencias/Captura%20de%20tela%202025-07-07%20220030.png)
+![e2_16](../Evidencias/e2_16.png)
 
-![Captura de tela 2025-07-07 220048](../Evidencias/Captura%20de%20tela%202025-07-07%20220048.png)
+![e2_17](../Evidencias/e2_17.png)
 
-![Captura de tela 2025-07-07 220055](../Evidencias/Captura%20de%20tela%202025-07-07%20220055.png)
+![e2_18](../Evidencias/e2_18.png)
 
-![Captura de tela 2025-07-07 220103](../Evidencias/Captura%20de%20tela%202025-07-07%20220103.png)
+![e2_19](../Evidencias/e2_19.png)
 
-![Captura de tela 2025-07-07 220116](../Evidencias/Captura%20de%20tela%202025-07-07%20220116.png)
+![e2_20](../Evidencias/e2_20.png)
 
-![Captura de tela 2025-07-07 220124](../Evidencias/Captura%20de%20tela%202025-07-07%20220124.png)
+![e2_21](../Evidencias/e2_21.png)
 
-![Captura de tela 2025-07-07 220130](../Evidencias/Captura%20de%20tela%202025-07-07%20220130.png)
+![e2_22](../Evidencias/e2_22.png)
 
-![Captura de tela 2025-07-07 220135](../Evidencias/Captura%20de%20tela%202025-07-07%20220135.png)
+![e2_23](../Evidencias/e2_23.png)
 
-![Captura de tela 2025-07-07 220149](../Evidencias/Captura%20de%20tela%202025-07-07%20220149.png)
+![e2_24](../Evidencias/e2_24.png)
 
-![Captura de tela 2025-07-07 220156](../Evidencias/Captura%20de%20tela%202025-07-07%20220156.png)
+![e2_25](../Evidencias/e2_25.png)
 
-![Captura de tela 2025-07-07 220222](../Evidencias/Captura%20de%20tela%202025-07-07%20220222.png)
+![e2_26](../Evidencias/e2_26.png)
 
-![Captura de tela 2025-07-07 220228](../Evidencias/Captura%20de%20tela%202025-07-07%20220228.png)
+![e2_27](../Evidencias/e2_27.png)
 
-![Captura de tela 2025-07-07 220249](../Evidencias/Captura%20de%20tela%202025-07-07%20220249.png)
+![e2_28](../Evidencias/e2_28.png)
 
-![Captura de tela 2025-07-07 220258](../Evidencias/Captura%20de%20tela%202025-07-07%20220258.png)
+![e2_29](../Evidencias/e2_29.png)
 
-![Captura de tela 2025-07-07 220304](../Evidencias/Captura%20de%20tela%202025-07-07%20220304.png)
+![e2_30](../Evidencias/e2_30.png)
 
-![Captura de tela 2025-07-07 220307](../Evidencias/Captura%20de%20tela%202025-07-07%20220307.png)
+![e2_31](../Evidencias/e2_31.png)
 
-![Captura de tela 2025-07-07 220317](../Evidencias/Captura%20de%20tela%202025-07-07%20220317.png)
+![e2_32](../Evidencias/e2_32.png)
 
-![Captura de tela 2025-07-07 220324](../Evidencias/Captura%20de%20tela%202025-07-07%20220324.png)
+![e2_33](../Evidencias/e2_33.png)
 
-![Captura de tela 2025-07-07 220337](../Evidencias/Captura%20de%20tela%202025-07-07%20220337.png)
+![e2_34](../Evidencias/e2_34.png)
 
-![Captura de tela 2025-07-07 220345](../Evidencias/Captura%20de%20tela%202025-07-07%20220345.png)
+![e2_35](../Evidencias/e2_35.png)
 
-![Captura de tela 2025-07-07 220349](../Evidencias/Captura%20de%20tela%202025-07-07%20220349.png)
+![e2_36](../Evidencias/e2_36.png)
 
-![Captura de tela 2025-07-07 220404](../Evidencias/Captura%20de%20tela%202025-07-07%20220404.png)
+![e2_37](../Evidencias/e2_37.png)
 
-![Captura de tela 2025-07-07 220408](../Evidencias/Captura%20de%20tela%202025-07-07%20220408.png)
+![e2_38](../Evidencias/e2_38.png)
 
-![Captura de tela 2025-07-07 220413](../Evidencias/Captura%20de%20tela%202025-07-07%20220413.png)
-
-
+![e2_39](../Evidencias/e2_39.png)
