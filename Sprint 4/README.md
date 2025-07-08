@@ -59,11 +59,45 @@ Após concluir os laboratórios e salvar todas as evidências/códigos no GitHub
 
 # Evidências
 
-Aqui vão constar as evidências da execução com sucesso dos exercícios
+Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 ## Etapa 1: Lab AWS S3
 
 ## Etapa 2 - Lab AWS Athena
+
+# Evidências do Lab AWS Athena
+
+![Captura de tela 2025-07-07 114227](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114227.png)
+
+![Captura de tela 2025-07-07 114306](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114306.png)
+
+![Captura de tela 2025-07-07 114338](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114338.png)
+
+![Captura de tela 2025-07-07 114355](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114355.png)
+
+![Captura de tela 2025-07-07 114420](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114420.png)
+
+![Captura de tela 2025-07-07 114427](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114427.png)
+
+![Captura de tela 2025-07-07 114452](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114452.png)
+
+![Captura de tela 2025-07-07 114501](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114501.png)
+
+![Captura de tela 2025-07-07 114816](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114816.png)
+
+![Captura de tela 2025-07-07 114855](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114855.png)
+
+![Captura de tela 2025-07-07 114904](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114904.png)
+
+![Captura de tela 2025-07-07 115331](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115331.png)
+
+![Captura de tela 2025-07-07 115342](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115342.png)
+
+![Captura de tela 2025-07-07 115347](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115347.png)
+
+![Captura de tela 2025-07-07 115351](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115351.png)
+
+![Captura de tela 2025-07-07 115351](./Exercicios/Lab%20AWS%20Athena/)
 
 ## Etapa 3 - Lab AWS Lambda
 
