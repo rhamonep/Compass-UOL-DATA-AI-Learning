@@ -11,6 +11,11 @@ O desafio consiste em trabalhar com dados públicos utilizando os serviços da A
 
 A solução será dividida em duas etapas principais, desenvolvidas em Notebooks: o primeiro será responsável por enviar o arquivo ao S3, com a utilização da biblioteca boto3, enquanto o segundo realizará as análises e transformações diretamente sobre o arquivo armazenado. Durante o processo, devem ser aplicadas operações como filtragem lógica, agregações, manipulações condicionais, conversões de tipo, datas e strings. O arquivo resultante da análise deve ser salvo de volta no mesmo bucket, sem que o arquivo local seja reutilizado após o envio inicial.
 
+# Base de Dados 
+
+- [Devedores da Dívida Ativa - dez/2024](./Arquivos/DEVEDORES_DIVIDA_ATIVA-2024-12.csv)
+
+Fonte: [dados.gov.br](https://dados.gov.br/dados/conjuntos-dados/devedores-da-divida-ativa)
 
 
 ## Etapa I - Criação do bucket, definição das análises e upload do csv
@@ -135,3 +140,11 @@ Abertura do preview do CSV para visualização dos dados para elaboração das a
 ![e2_38](../Evidencias/e2_38.png)
 
 ![e2_39](../Evidencias/e2_39.png)
+
+# Resultados
+
+- [Analise 1](./Arquivos/analise_1.csv)
+
+- [Analise 2](./Arquivos/analise_2.csv)
+
+- [Analise 3](./Arquivos/analise_3.csv)
