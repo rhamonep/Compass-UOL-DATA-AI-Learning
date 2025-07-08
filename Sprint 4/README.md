@@ -153,8 +153,6 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 ## Etapa 3 - Lab AWS Lambda
 
-# Evidências do Lab AWS Lambda
-
 ![Captura de tela 2025-07-07 115501](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115501.png)
 
 ![Captura de tela 2025-07-07 115517](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115517.png)
