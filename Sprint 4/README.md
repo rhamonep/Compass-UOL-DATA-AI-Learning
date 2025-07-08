@@ -63,8 +63,6 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 ## Etapa 1: Lab AWS S3
 
-# Evidências do Lab AWS S3
-
 ![s3_1_s3](./Exercicios/Lab%20AWS%20S3/s3_1_s3.png)
 
 ![s3_2_criar_bucket](./Exercicios/Lab%20AWS%20S3/s3_2_criar_bucket.png)
@@ -117,11 +115,7 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 ![s3_27_teste_botao_download](./Exercicios/Lab%20AWS%20S3/s3_27_teste_botao_download.png)
 
-
 ## Etapa 2 - Lab AWS Athena
-
-
-# Evidências do Lab AWS Athena
 
 ![athena_l_cabecalho_csv](./Exercicios/Lab%20AWS%20Athena/athena_1_cabecalho_csv.png)
 
@@ -152,8 +146,6 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 ![athena_14_consulta4_resultad01](./Exercicios/Lab%20AWS%20Athena/athena_14_consulta4_resultado1.png)
 
 ![athena_15_consulta4_resultad02](./Exercicios/Lab%20AWS%20Athena/athena_15_consulta4_resultado2.png)
-
-
 
 
 ## Etapa 3 - Lab AWS Lambda
