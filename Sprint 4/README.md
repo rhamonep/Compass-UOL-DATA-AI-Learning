@@ -63,198 +63,207 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 ## Etapa 1: Lab AWS S3
 
-![Captura de tela 2025-07-07 112728](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112728.png)
+# Evidências do Lab AWS S3
 
-![Captura de tela 2025-07-07 112741](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112741.png)
+![s3_1_s3](./Exercicios/Lab%20AWS%20S3/s3_1_s3.png)
 
-![Captura de tela 2025-07-07 112758](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112758.png)
+![s3_2_criar_bucket](./Exercicios/Lab%20AWS%20S3/s3_2_criar_bucket.png)
 
-![Captura de tela 2025-07-07 112804](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112804.png)
+![s3_3_nome_bucket](./Exercicios/Lab%20AWS%20S3/s3_3_nome_bucket.png)
 
-![Captura de tela 2025-07-07 112839](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112839.png)
+![s3_4_regiao](./Exercicios/Lab%20AWS%20S3/s3_4_regiao.png)
 
-![Captura de tela 2025-07-07 112844](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112844.png)
+![s3_5_nome_criado](./Exercicios/Lab%20AWS%20S3/s3_5_nome_criado.png)
 
-![Captura de tela 2025-07-07 112858](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112858.png)
+![s3_6_propriedades](./Exercicios/Lab%20AWS%20S3/s3_6_propriedades.png)
 
-![Captura de tela 2025-07-07 112918](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112918.png)
+![s3_7_site_estatico](./Exercicios/Lab%20AWS%20S3/s3_7_site_estatico.png)
 
-![Captura de tela 2025-07-07 112944](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112944.png)
+![s3_8_ativar_hospedagem](./Exercicios/Lab%20AWS%20S3/s3_8_ativar_hospedagem.png)
 
-![Captura de tela 2025-07-07 113032](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113032.png)
+![s3_9_tipo_hospedagem_index_html](./Exercicios/Lab%20AWS%20S3/s3_9_tipo_hospedagem_index_html.png)
 
-![Captura de tela 2025-07-07 113042](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113042.png)
+![s3_10_error_html](./Exercicios/Lab%20AWS%20S3/s3_10_error_html.png)
 
-![Captura de tela 2025-07-07 113059](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113059.png)
+![s3_11_save](./Exercicios/Lab%20AWS%20S3/s3_11_save.png)
 
-![Captura de tela 2025-07-07 113141](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113141.png)
+![s3_12_endpoint](./Exercicios/Lab%20AWS%20S3/s3_12_endpoint.png)
 
-![Captura de tela 2025-07-07 113150](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113150.png)
+![s3_13_permissioes](./Exercicios/Lab%20AWS%20S3/s3_13_permissioes.png)
 
-![Captura de tela 2025-07-07 113157](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113157.png)
+![s3_14_bloquear_acesso](./Exercicios/Lab%20AWS%20S3/s3_14_bloquear_acesso.png)
 
-![Captura de tela 2025-07-07 113209](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113209.png)
+![s3_15_desativar_bloqueio](./Exercicios/Lab%20AWS%20S3/s3_15_desativar_bloqueio.png)
 
-![Captura de tela 2025-07-07 113311](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113311.png)
+![s3_17_politica_bucket](./Exercicios/Lab%20AWS%20S3/s3_17_politica_bucket.png)
 
-![Captura de tela 2025-07-07 113333](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113333.png)
+![s3_18_salvar_politica](./Exercicios/Lab%20AWS%20S3/s3_18_salvar_politica.png)
 
-![Captura de tela 2025-07-07 113425](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113425.png)
+![s3_19_index_html](./Exercicios/Lab%20AWS%20S3/s3_19_index_html.png)
 
-![Captura de tela 2025-07-07 113444](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113444.png)
+![s3_20_index_html_codigo](./Exercicios/Lab%20AWS%20S3/s3_20_index_html_codigo.png)
 
-![Captura de tela 2025-07-07 113613](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113613.png)
+![s3_21_upload_html_bucket_pasta_dados](./Exercicios/Lab%20AWS%20S3/s3_21_upload_html_bucket_pasta_dados.png)
 
-![Captura de tela 2025-07-07 113657](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113657.png)
+![s3_22_upload_csv_dados](./Exercicios/Lab%20AWS%20S3/s3_22_upload_csv_dados.png)
 
-![Captura de tela 2025-07-07 113750](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113750.png)
+![s3_23_404_html](./Exercicios/Lab%20AWS%20S3/s3_23_404_html.png)
 
-![Captura de tela 2025-07-07 113906](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113906.png)
+![s3_24_upload_404](./Exercicios/Lab%20AWS%20S3/s3_24_upload_404.png)
 
-![Captura de tela 2025-07-07 114002](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20114002.png)
+![s3_25_rename_erro_html](./Exercicios/Lab%20AWS%20S3/s3_25_rename_erro_html.png)
 
-![Captura de tela 2025-07-07 114014](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20114014.png)
+![s3_26_resultado_final](./Exercicios/Lab%20AWS%20S3/s3_26_resultado_final.png)
 
-![Captura de tela 2025-07-07 114034](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20114034.png)
+![s3_27_teste_botao_download](./Exercicios/Lab%20AWS%20S3/s3_27_teste_botao_download.png)
 
 
 ## Etapa 2 - Lab AWS Athena
 
 
-![Captura de tela 2025-07-07 114227](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114227.png)
+# Evidências do Lab AWS Athena
 
-![Captura de tela 2025-07-07 114306](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114306.png)
+# Evidências do Lab AWS Athena
 
-![Captura de tela 2025-07-07 114338](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114338.png)
+![athena_l_cabecalho_csv](./Exercicios/Lab%20AWS%20Athena/athena_1_cabecalho_csv.png)
 
-![Captura de tela 2025-07-07 114355](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114355.png)
+![athena_2_queries_criacao](./Exercicios/Lab%20AWS%20Athena/athena_2_queries_criacao.png)
 
-![Captura de tela 2025-07-07 114420](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114420.png)
+![athena_3_config](./Exercicios/Lab%20AWS%20Athena/athena_3_config.png)
 
-![Captura de tela 2025-07-07 114427](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114427.png)
+![athena_4_browser](./Exercicios/Lab%20AWS%20Athena/athena_4_browser.png)
 
-![Captura de tela 2025-07-07 114452](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114452.png)
+![athena_5_select_queries](./Exercicios/Lab%20AWS%20Athena/athena_5_select_queries.png)
 
-![Captura de tela 2025-07-07 114501](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114501.png)
+![athena_6_local_consultas](./Exercicios/Lab%20AWS%20Athena/athena_6_local_consultas.png)
 
-![Captura de tela 2025-07-07 114816](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114816.png)
+![athena_7_consulta1_criacao_db](./Exercicios/Lab%20AWS%20Athena/athena_7_consulta1_criacao_db.png)
 
-![Captura de tela 2025-07-07 114855](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114855.png)
+![athena_8_dados](./Exercicios/Lab%20AWS%20Athena/athena_8_dados.png)
 
-![Captura de tela 2025-07-07 114904](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114904.png)
+![athena_9_consulta2_tabela](./Exercicios/Lab%20AWS%20Athena/athena_9_consulta2_tabela.png)
 
-![Captura de tela 2025-07-07 115331](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115331.png)
+![athena_10_consulta3_select_15](./Exercicios/Lab%20AWS%20Athena/athena_10_consulta3_select_15.png)
 
-![Captura de tela 2025-07-07 115342](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115342.png)
+![athena_11_resultados_select_15](./Exercicios/Lab%20AWS%20Athena/athena_11_resultados_select_15.png)
 
-![Captura de tela 2025-07-07 115347](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115347.png)
+![athena_12_consulta4_top3_decada](./Exercicios/Lab%20AWS%20Athena/athena_12_consulta4_top3_decada.png)
 
-![Captura de tela 2025-07-07 115351](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115351.png)
+![athena_13_consulta4_concluido](./Exercicios/Lab%20AWS%20Athena/athena_13_consulta4_concluido.png)
+
+![athena_14_consulta4_resultad01](./Exercicios/Lab%20AWS%20Athena/athena_14_consulta4_resultado1.png)
+
+![athena_15_consulta4_resultad02](./Exercicios/Lab%20AWS%20Athena/athena_15_consulta4_resultado2.png)
+
+
+
 
 ## Etapa 3 - Lab AWS Lambda
 
-![Captura de tela 2025-07-07 115501](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115501.png)
+# Evidências do Lab AWS Lambda
 
-![Captura de tela 2025-07-07 115517](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115517.png)
+![lambda_l_criar_func](./Exercicios/Lab%20AWS%20Lambda/lambda_1_criar_func.png)
 
-![Captura de tela 2025-07-07 115548](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115548.png)
+![lambda_2_dozero](./Exercicios/Lab%20AWS%20Lambda/lambda_2_dozero.png)
 
-![Captura de tela 2025-07-07 115636](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115636.png)
+![lambda_3_nome_arq](./Exercicios/Lab%20AWS%20Lambda/lambda_3_nome_arq.png)
 
-![Captura de tela 2025-07-07 115657](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115657.png)
+![lambda_4_lambda_func](./Exercicios/Lab%20AWS%20Lambda/lambda_4_lambda_func.png)
 
-![Captura de tela 2025-07-07 115705](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115705.png)
+![lambda_5_nossa_func](./Exercicios/Lab%20AWS%20Lambda/lambda_5_nossa_func.png)
 
-![Captura de tela 2025-07-07 115736](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115736.png)
+![lambda_6_nossa_func_exito](./Exercicios/Lab%20AWS%20Lambda/lambda_6_nossa_func_exito.png)
 
-![Captura de tela 2025-07-07 115741](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115741.png)
+![lambda_7_teste_criacao](./Exercicios/Lab%20AWS%20Lambda/lambda_7_teste_criacao.png)
 
-![Captura de tela 2025-07-07 115755](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115755.png)
+![lambda_8_exito_teste_criacao](./Exercicios/Lab%20AWS%20Lambda/lambda_8_exito_teste_criacao.png)
 
-![Captura de tela 2025-07-07 120020](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120020.png)
+![lambda_9_erro_module_missing](./Exercicios/Lab%20AWS%20Lambda/lambda_9_erro_module_missing.png)
 
-![Captura de tela 2025-07-07 120031](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120031.png)
+![lambda_10_dockerfile_criacao](./Exercicios/Lab%20AWS%20Lambda/lambda_10_dockerfile_criacao.png)
 
-![Captura de tela 2025-07-07 120103](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120103.png)
+![lambda_11_dockerfile_conteudo](./Exercicios/Lab%20AWS%20Lambda/lambda_11_dockerfile_conteudo.png)
 
-![Captura de tela 2025-07-07 120139](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120139.png)
+![lambda_12_result](./Exercicios/Lab%20AWS%20Lambda/lambda_12_docker_comand1.png) 
 
-![Captura de tela 2025-07-07 120145](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120145.png)
+![lambda_13_result](./Exercicios/Lab%20AWS%20Lambda/lambda_13_docker_comand1_result.png) 
 
-![Captura de tela 2025-07-07 120154](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120154.png)
+![lambda_14_docker_comand2](./Exercicios/Lab%20AWS%20Lambda/lambda_14_docker_comand2.png)
 
-![Captura de tela 2025-07-07 120251](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120251.png)
+![lambda_15_docker_comand2_result](./Exercicios/Lab%20AWS%20Lambda/lambda_15_docker_comand2_result.png)
 
-![Captura de tela 2025-07-07 120322](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120322.png)
+![lambda_16_docker_comand3](./Exercicios/Lab%20AWS%20Lambda/lambda_16_docker_comand3.png)
 
-![Captura de tela 2025-07-07 120341](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120341.png)
+![lambda_18_docker_comand4_result](./Exercicios/Lab%20AWS%20Lambda/lambda_18_docker_comand4_result.png)
 
-![Captura de tela 2025-07-07 120406](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120406.png)
+![lambda_20_docker_comand4_pwd](./Exercicios/Lab%20AWS%20Lambda/lambda_20_docker_comand4_pwd.png)
 
-![Captura de tela 2025-07-07 120422](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120422.png)
+![lambda_21_docker_comand5](./Exercicios/Lab%20AWS%20Lambda/lambda_21_docker_comand5.png)
 
-![Captura de tela 2025-07-07 120450](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120450.png)
+![lambda_22_docker_container_ls](./Exercicios/Lab%20AWS%20Lambda/lambda_22_docker_container_ls.png)
 
-![Captura de tela 2025-07-07 120541](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120541.png)
+![lambda_23_docker_zip](./Exercicios/Lab%20AWS%20Lambda/lambda_23_docker_zip.png)
 
-![Captura de tela 2025-07-07 120738](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120738.png)
+![lambda_24_docker_zip_result](./Exercicios/Lab%20AWS%20Lambda/lambda_24_docker_zip_result.png)
 
-![Captura de tela 2025-07-07 120749](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120749.png)
+![lambda_25_zip](./Exercicios/Lab%20AWS%20Lambda/lambda_25_zip.png)
 
-![Captura de tela 2025-07-07 120754](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120754.png)
+![lambda_26_minha_camada](./Exercicios/Lab%20AWS%20Lambda/lambda_26_minha_camada.png)
 
-![Captura de tela 2025-07-07 120917](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120917.png)
+![lambda_27_upload_bucket_minha_camada](./Exercicios/Lab%20AWS%20Lambda/lambda_27_upload_bucket_minha_camada.png)
 
-![Captura de tela 2025-07-07 120935](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120935.png)
+![lambda_28_camadas_menu_slect](./Exercicios/Lab%20AWS%20Lambda/lambda_28_camadas_menu_slect.png)
 
-![Captura de tela 2025-07-07 120958](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120958.png)
+![lambda_29_criar_camada](./Exercicios/Lab%20AWS%20Lambda/lambda_29_criar_camada.png)
 
-![Captura de tela 2025-07-07 121030](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121030.png)
+![lambda_30_url_camada_zip](./Exercicios/Lab%20AWS%20Lambda/lambda_30_url_camada_zip.png)
 
-![Captura de tela 2025-07-07 121103](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121103.png)
+![lambda_31_config_camada](./Exercicios/Lab%20AWS%20Lambda/lambda_31_config_camada.png)
 
-![Captura de tela 2025-07-07 121142](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121142.png)
+![lambda_32_config_camada_exito](./Exercicios/Lab%20AWS%20Lambda/lambda_32_config_camada_exito.png)
 
-![Captura de tela 2025-07-07 121220](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121220.png)
+![lambda_33_camadas_empty](./Exercicios/Lab%20AWS%20Lambda/lambda_33_camadas_empty.png)
 
-![Captura de tela 2025-07-07 121305](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121305.png)
+![lambda_34_camada_adicionar](./Exercicios/Lab%20AWS%20Lambda/lambda_34_camada_adicionar.png)
 
-![Captura de tela 2025-07-07 121321](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121321.png)
+![lambda_35_camada_configuracao_button](./Exercicios/Lab%20AWS%20Lambda/lambda_35_camada_configuracao_button.png)
 
-![Captura de tela 2025-07-07 121558](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121558.png)
+![lambda_36_lambda_function_config](./Exercicios/Lab%20AWS%20Lambda/lambda_36_lambda_function_config.png)
 
-![Captura de tela 2025-07-07 121619](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121619.png)
+![lambda_37_lambda_function_memory_time](./Exercicios/Lab%20AWS%20Lambda/lambda_37_lambda_function_memory_time.png)
 
-![Captura de tela 2025-07-07 121421](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121421.png)
+![lambda_38_lambda_function_deploy](./Exercicios/Lab%20AWS%20Lambda/lambda_38_lambda_function_deploy.png)
 
-![Captura de tela 2025-07-07 121439](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121439.png)
+![lambda_39_lambda_function_timeout](./Exercicios/Lab%20AWS%20Lambda/lambda_39_lambda_function_timeout.png)
 
-![Captura de tela 2025-07-07 121455](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121455.png)
+![lambda_40_lambda_function_sucesso](./Exercicios/Lab%20AWS%20Lambda/lambda_40_lambda_function_sucesso.png)
 
-![Captura de tela 2025-07-07 121705](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121705.png)
 
 
 ## Etapa 4 - Limpeza de Recursos
 
-![Captura de tela 2025-07-07 121734](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121734.png)
+# Evidências do Lab AWS Limpeza de Recursos
 
-![Captura de tela 2025-07-07 121739](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121739.png)
+![limpeza_l_excluir_func](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_10_excluir_bucket_exito.png)
 
-![Captura de tela 2025-07-07 121807](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121807.png)
+![limpeza_2_excluir_func_confirm](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_2_excluir_func_confirm.png)
 
-![Captura de tela 2025-07-07 121844](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121844.png)
+![limpeza_3_excluir_camada](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_3_excluir_camada.png)
 
-![Captura de tela 2025-07-07 121906](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121906.png)
+![limpeza_4_drop_table](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_4_drop_table.png)
 
-![Captura de tela 2025-07-07 121938](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121938.png)
+![limpeza_5_drop_database](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_5_drop_database.png)
 
-![Captura de tela 2025-07-07 121958](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20121958.png)
+![limpeza_6_excluir_bucket](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_6_excluir_bucket.png)
 
-![Captura de tela 2025-07-07 122013](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20122013.png)
+![limpeza_7_esvaziar_confirm](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_7_esvaziar_confirm.png)
 
-![Captura de tela 2025-07-07 122019](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20122019.png)
+![limpeza_8_excluir_bucket2](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_8_excluir_bucket2.png)
 
-![Captura de tela 2025-07-07 122035](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/Captura%20de%20tela%202025-07-07%20122035.png)
+![limpeza_9_excluir_bucket_confirm](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_9_excluir_bucket_confirm.png)
+
+![limpeza_10_excluir_bucket_exito](./Exercicios/Lab%20AWS%20Limpeza%20de%20Recursos/limpeza_10_excluir_bucket_exito.png)
+
 
 
 # Certificados
