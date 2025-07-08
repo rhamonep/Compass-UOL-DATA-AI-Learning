@@ -1,8 +1,8 @@
 # Etapas
 
-1. [Etapa I - etl.py](./Arquivos/etapa1.ipynb)
+1. [Etapa I - Criação do bucket, definição das análises e upload do csv](./Arquivos/etapa1.ipynb)
 
-2. [Etapa II - job.py](./Arquivos/etapa2.ipynb)
+2. [Etapa II - Manipulações, execução das analises e upload de resultados](./Arquivos/etapa2.ipynb)
 
 
 # Desafio apresentado
@@ -11,9 +11,9 @@ O desafio consiste em trabalhar com dados públicos utilizando os serviços da A
 
 A solução será dividida em duas etapas principais, desenvolvidas em Notebooks: o primeiro será responsável por enviar o arquivo ao S3, com a utilização da biblioteca boto3, enquanto o segundo realizará as análises e transformações diretamente sobre o arquivo armazenado. Durante o processo, devem ser aplicadas operações como filtragem lógica, agregações, manipulações condicionais, conversões de tipo, datas e strings. O arquivo resultante da análise deve ser salvo de volta no mesmo bucket, sem que o arquivo local seja reutilizado após o envio inicial.
 
-## Etapa I - Criação do bucket e upload do csv
+## Etapa I - Criação do bucket, definição das análises e upload do csv
 
 
 
-## Etapa II - manipulações, analises e upload de resultados
+## Etapa II - Manipulações, execução das analises e upload de resultados
 

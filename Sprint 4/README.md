@@ -63,9 +63,63 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 ## Etapa 1: Lab AWS S3
 
+![Captura de tela 2025-07-07 112728](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112728.png)
+
+![Captura de tela 2025-07-07 112741](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112741.png)
+
+![Captura de tela 2025-07-07 112758](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112758.png)
+
+![Captura de tela 2025-07-07 112804](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112804.png)
+
+![Captura de tela 2025-07-07 112839](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112839.png)
+
+![Captura de tela 2025-07-07 112844](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112844.png)
+
+![Captura de tela 2025-07-07 112858](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112858.png)
+
+![Captura de tela 2025-07-07 112918](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112918.png)
+
+![Captura de tela 2025-07-07 112944](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20112944.png)
+
+![Captura de tela 2025-07-07 113032](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113032.png)
+
+![Captura de tela 2025-07-07 113042](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113042.png)
+
+![Captura de tela 2025-07-07 113059](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113059.png)
+
+![Captura de tela 2025-07-07 113141](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113141.png)
+
+![Captura de tela 2025-07-07 113150](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113150.png)
+
+![Captura de tela 2025-07-07 113157](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113157.png)
+
+![Captura de tela 2025-07-07 113209](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113209.png)
+
+![Captura de tela 2025-07-07 113311](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113311.png)
+
+![Captura de tela 2025-07-07 113333](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113333.png)
+
+![Captura de tela 2025-07-07 113425](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113425.png)
+
+![Captura de tela 2025-07-07 113444](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113444.png)
+
+![Captura de tela 2025-07-07 113613](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113613.png)
+
+![Captura de tela 2025-07-07 113657](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113657.png)
+
+![Captura de tela 2025-07-07 113750](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113750.png)
+
+![Captura de tela 2025-07-07 113906](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20113906.png)
+
+![Captura de tela 2025-07-07 114002](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20114002.png)
+
+![Captura de tela 2025-07-07 114014](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20114014.png)
+
+![Captura de tela 2025-07-07 114034](./Exercicios/Lab%20AWS%20S3/Captura%20de%20tela%202025-07-07%20114034.png)
+
+
 ## Etapa 2 - Lab AWS Athena
 
-# Evidências do Lab AWS Athena
 
 ![Captura de tela 2025-07-07 114227](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20114227.png)
 
@@ -97,9 +151,90 @@ Aqui estão as capturas de tela que comprovam a execução do laboratório:
 
 ![Captura de tela 2025-07-07 115351](./Exercicios/Lab%20AWS%20Athena/Captura%20de%20tela%202025-07-07%20115351.png)
 
-![Captura de tela 2025-07-07 115351](./Exercicios/Lab%20AWS%20Athena/)
-
 ## Etapa 3 - Lab AWS Lambda
+
+# Evidências do Lab AWS Lambda
+
+![Captura de tela 2025-07-07 115501](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115501.png)
+
+![Captura de tela 2025-07-07 115517](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115517.png)
+
+![Captura de tela 2025-07-07 115548](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115548.png)
+
+![Captura de tela 2025-07-07 115636](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115636.png)
+
+![Captura de tela 2025-07-07 115657](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115657.png)
+
+![Captura de tela 2025-07-07 115705](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115705.png)
+
+![Captura de tela 2025-07-07 115736](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115736.png)
+
+![Captura de tela 2025-07-07 115741](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115741.png)
+
+![Captura de tela 2025-07-07 115755](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20115755.png)
+
+![Captura de tela 2025-07-07 120020](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120020.png)
+
+![Captura de tela 2025-07-07 120031](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120031.png)
+
+![Captura de tela 2025-07-07 120103](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120103.png)
+
+![Captura de tela 2025-07-07 120139](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120139.png)
+
+![Captura de tela 2025-07-07 120145](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120145.png)
+
+![Captura de tela 2025-07-07 120154](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120154.png)
+
+![Captura de tela 2025-07-07 120251](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120251.png)
+
+![Captura de tela 2025-07-07 120322](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120322.png)
+
+![Captura de tela 2025-07-07 120341](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120341.png)
+
+![Captura de tela 2025-07-07 120406](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120406.png)
+
+![Captura de tela 2025-07-07 120422](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120422.png)
+
+![Captura de tela 2025-07-07 120450](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120450.png)
+
+![Captura de tela 2025-07-07 120541](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120541.png)
+
+![Captura de tela 2025-07-07 120738](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120738.png)
+
+![Captura de tela 2025-07-07 120749](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120749.png)
+
+![Captura de tela 2025-07-07 120754](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120754.png)
+
+![Captura de tela 2025-07-07 120917](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120917.png)
+
+![Captura de tela 2025-07-07 120935](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120935.png)
+
+![Captura de tela 2025-07-07 120958](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20120958.png)
+
+![Captura de tela 2025-07-07 121030](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121030.png)
+
+![Captura de tela 2025-07-07 121103](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121103.png)
+
+![Captura de tela 2025-07-07 121142](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121142.png)
+
+![Captura de tela 2025-07-07 121220](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121220.png)
+
+![Captura de tela 2025-07-07 121305](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121305.png)
+
+![Captura de tela 2025-07-07 121321](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121321.png)
+
+![Captura de tela 2025-07-07 121558](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121558.png)
+
+![Captura de tela 2025-07-07 121619](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121619.png)
+
+![Captura de tela 2025-07-07 121421](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121421.png)
+
+![Captura de tela 2025-07-07 121439](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121439.png)
+
+![Captura de tela 2025-07-07 121455](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121455.png)
+
+![Captura de tela 2025-07-07 121705](./Exercicios/Lab%20AWS%20Lambda/Captura%20de%20tela%202025-07-07%20121705.png)
+
 
 ## Etapa 4 - Limpeza de Recursos
 
