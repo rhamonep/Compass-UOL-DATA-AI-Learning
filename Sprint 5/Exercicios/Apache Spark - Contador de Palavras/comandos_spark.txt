@@ -1,0 +1,8 @@
+import re
+rdd = sc.textFile("README.md")
+palavras = rdd.flatMap(lambda line: re.split(r'\W+', line.lower()))
+nao_vazias = palavras.filter(lambda word: word != "")
+pares = nao_vazias.map(lambda palavra: (palavra, 1))
+conta_palavras = pares.reduceByKey(lambda a, b: a + b)
+for palavra, contador in conta_palavras.collect():
+	print(f"{palavra}: {contador}")
