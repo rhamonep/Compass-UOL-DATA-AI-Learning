@@ -27,81 +27,120 @@ Após explorar os dados disponíveis e catalogados nos CSVs de filmes e séries,
 
 # Desenvolvimento
 
-## Etapa I 
+## Etapa I
 
-
-![1](../Evidencias/Captura%20de%20tela%202025-07-21%20204145.png)
-- Importação das bibliotecas utilizadas. Principais:
-    - OS: (leitura do .env) 
-    - pandas: manipulação do csv em dataframes
-    - boto3: utilização das funções de manipulação da aws
 ---
 
+### ![1](../Evidencias/Captura%20de%20tela%202025-07-21%20204145.png)
+- Importação das bibliotecas que serão utilizadas ao longo do script. Destaque para:
+  - `os`: utilizada principalmente para leitura de variáveis de ambiente definidas no arquivo `.env`.
+  - `pandas`: responsável pela manipulação dos arquivos CSV, transformando-os em DataFrames.
+  - `boto3`: biblioteca da AWS usada para fazer as chamadas e interações com o S3 (upload, verificação de arquivos, criação de bucket, etc).
 
-
-![2](../Evidencias/Captura%20de%20tela%202025-07-21%20204150.png)
-- Nome do bucket a ser acessado, o caminho definido da especificação, e local da pastas de dados que contem os csv's. 
-- Definição do tamanho do batch que será usado para particionar o resultado dos ID's filtrados
-- nome dos arquivos para serem subidos no s3 e a categoria que vai funcionar como o diretório para aquela categoria (separado por pastas de ano, mes e dia)
-
-![3](../Evidencias/Captura%20de%20tela%202025-07-21%20204154.png)
----
-- Criação do cliente que é a conexão com as chamadas no s3 atraves de uma sessão.
-
-
-![4](../Evidencias/Captura%20de%20tela%202025-07-21%20204157.png)
-- Verificar se o bucket existe com o nome especificado e cria se não existir.
 ---
 
-![5](../Evidencias/Captura%20de%20tela%202025-07-21%20204202.png)
-- extrai a data de hoje para definir o caminho que nada mais é que a key no bucket do s3. Isso fez parte da espeficicação.
-- verifica se já há um csv com esse nome, e se não houver, faz o upload.
----
-![6](../Evidencias/Captura%20de%20tela%202025-07-21%20204209.png)
+### ![2](../Evidencias/Captura%20de%20tela%202025-07-21%20204150.png)
+- Aqui foram definidos os parâmetros principais que serão usados no restante da execução:
+  - Nome do bucket que será acessado/criado.
+  - Caminho base dentro do projeto e onde estão localizados os arquivos CSV.
+  - Tamanho do lote (batch) que define como os dados filtrados serão particionados.
+  - Nomes dos arquivos que serão gerados e enviados ao S3.
+  - A categoria (ex: “filmes” ou “séries”), que servirá como pasta principal dentro da estrutura do bucket, organizada por ano, mês e dia — conforme especificação.
 
-- Nessa parte é onde defini como será a filtragem dos dados do csv. Aqui que defini a quantidade de amostragem que usaria para realizar nossa analise. Alem de filtrar por genero de romance/drama, decidi trabalhar com aqueles no topo de popularidade baseado na quantidade de votos e nota média de cada um em relação a nota media e numero de votos medio do todo. Dessa forma, é considerado não apenas a qualidade da nota mas também em relação a prporção da quantidade de votos. 
-
-- Decidi trabalhar com o "top 5%" dos dados de filmes mais votados. Uma boa margem para avaliar os melhores filmes, já que ainda vamos ter que filtrar e eliminar os casos em que foi muito descrepante o calculo realizado com o csv e da consulta na API do TMDB.
----
-![7](../Evidencias/Captura%20de%20tela%202025-07-21%20204214.png)
-![8](../Evidencias/Captura%20de%20tela%202025-07-21%20204219.png)
-- Chamada das funcões na main
----
-![9](../Evidencias/Captura%20de%20tela%202025-07-21%20204234.png)
-- Criação da imagem Docker
----
-![10](../Evidencias/Captura%20de%20tela%202025-07-21%20204428.png)
-- Execução e resultado do build da imagem docker
----
-![11](../Evidencias/Captura%20de%20tela%202025-07-21%20204537.png)
-- Exibição de como estava a estrutura de pastas até esse momento.
----
-![12](../Evidencias/Captura%20de%20tela%202025-07-21%20204602.png)
-- Chamada do container e mostrando que o volume foi montado corretamente, acessando o diretorio /data e exibindo o conteudo corretamente
----
-![13](../Evidencias/Captura%20de%20tela%202025-07-21%20204827.png)
-- Resultado do diretorio apos a execução do container com o script da etapa1.
----
-![14](../Evidencias/Captura%20de%20tela%202025-07-21%20204846.png)
-- Logs de confirmação da criação de cada uma das partes da lista de Id's filtrado.
----
-![15](../Evidencias/Captura%20de%20tela%202025-07-21%20204853.png)
-- Logs de confirmação no upload de cada um dos csv's no bucket do s3 
----
-![16](../Evidencias/Captura%20de%20tela%202025-07-21%20204903.png)
-- Resultado esperado no bucket, com os diretorios esperados presentes
----
-![18](../Evidencias/Captura%20de%20tela%202025-07-21%20204921.png)
-- sucesso no upload de "movies.csv"
----
-![19](../Evidencias/Captura%20de%20tela%202025-07-21%20204935.png)
-- sucesso no upload de "series.csv"
----
-![17](../Evidencias/Captura%20de%20tela%202025-07-21%20204911.png)
-- sucesso no upload dos csvs com os id filtrados
 ---
 
-# Etapa 2
+### ![3](../Evidencias/Captura%20de%20tela%202025-07-21%20204154.png)
+- Criação do cliente S3 a partir da sessão configurada via boto3. Essa sessão é quem vai permitir que a aplicação consiga interagir com o S3 e realizar as operações necessárias (upload, verificação de existência, etc).
+
+---
+
+### ![4](../Evidencias/Captura%20de%20tela%202025-07-21%20204157.png)
+- Verificação da existência do bucket com o nome que foi previamente definido.
+- Caso o bucket ainda não exista, ele é criado automaticamente com as permissões padrão.
+
+---
+
+### ![5](../Evidencias/Captura%20de%20tela%202025-07-21%20204202.png)
+- Nesse ponto, extraímos a data atual para montar o caminho onde os arquivos serão armazenados no S3 (seguindo a estrutura: ano/mês/dia).
+- Antes de fazer o upload, o código verifica se já existe um arquivo com aquele mesmo nome e caminho. Se ainda não estiver presente no bucket, o upload é feito.
+
+---
+
+### ![6](../Evidencias/Captura%20de%20tela%202025-07-21%20204209.png)
+- Aqui foi definida a lógica de filtragem dos dados do CSV original:
+  - O foco foi selecionar filmes ou séries que se encaixassem nos gêneros "romance" ou "drama".
+  - Para restringir ainda mais os dados e buscar amostras mais relevantes, decidi trabalhar apenas com os títulos mais populares. A seleção foi feita considerando dois critérios combinados: número de votos e nota média.
+  - A ideia foi considerar títulos que estivessem no “top 5%” dos mais votados — assim, garantimos uma amostra significativa tanto em quantidade quanto em qualidade (evitando títulos com nota alta, mas poucos votos).
+  - Esse recorte inicial ainda passará por uma filtragem adicional depois, cruzando os dados com a API do TMDB para validar e refinar os resultados.
+
+---
+
+### ![7](../Evidencias/Captura%20de%20tela%202025-07-21%20204214.png)
+### ![8](../Evidencias/Captura%20de%20tela%202025-07-21%20204219.png)
+- Execução da função principal que coordena as etapas do processo.
+
+---
+
+### ![9](../Evidencias/Captura%20de%20tela%202025-07-21%20204234.png)
+- Criação da imagem Docker que será usada para rodar o pipeline em ambiente isolado.
+
+---
+
+### ![10](../Evidencias/Captura%20de%20tela%202025-07-21%20204428.png)
+- Resultado da execução do build da imagem. Aqui conseguimos validar que o ambiente foi montado corretamente.
+
+---
+
+### ![11](../Evidencias/Captura%20de%20tela%202025-07-21%20204537.png)
+- Exibição da estrutura de diretórios local no projeto até esse ponto da execução.
+
+---
+
+### ![12](../Evidencias/Captura%20de%20tela%202025-07-21%20204602.png)
+- Execução do container Docker.
+- Verificação de que o volume foi montado corretamente, permitindo o acesso ao diretório `/data` dentro do container e leitura correta dos arquivos.
+
+---
+
+### ![13](../Evidencias/Captura%20de%20tela%202025-07-21%20204827.png)
+- Estrutura de diretórios após a execução do script dentro do container.
+- Mostra os arquivos gerados a partir da filtragem e divisão em lotes.
+
+---
+
+### ![14](../Evidencias/Captura%20de%20tela%202025-07-21%20204846.png)
+- Logs que confirmam a criação de cada um dos arquivos com os IDs filtrados.
+
+---
+
+### ![15](../Evidencias/Captura%20de%20tela%202025-07-21%20204853.png)
+- Confirmação via log do sucesso no upload de cada CSV com os IDs filtrados para o bucket no S3.
+
+---
+
+### ![16](../Evidencias/Captura%20de%20tela%202025-07-21%20204903.png)
+- Visualização da estrutura no bucket após o upload — validação de que os diretórios (por categoria/data) foram criados corretamente.
+
+---
+
+### ![18](../Evidencias/Captura%20de%20tela%202025-07-21%20204921.png)
+- Confirmação do sucesso no upload do arquivo `movies.csv`.
+
+---
+
+### ![19](../Evidencias/Captura%20de%20tela%202025-07-21%20204935.png)
+- Confirmação do sucesso no upload do arquivo `series.csv`.
+
+---
+
+### ![17](../Evidencias/Captura%20de%20tela%202025-07-21%20204911.png)
+- Confirmação de que os arquivos com os IDs filtrados (em batches) também foram enviados com sucesso para o S3.
+
+---
+
+## Etapa II
+
+---
 
 ![28](../Evidencias/Captura%20de%20tela%202025-07-21%20220906.png)
 ![29](../Evidencias/Captura%20de%20tela%202025-07-21%20220911.png)
@@ -120,9 +159,6 @@ Após explorar os dados disponíveis e catalogados nos CSVs de filmes e séries,
 ![23](../Evidencias/Captura%20de%20tela%202025-07-21%20205140.png)
 ![24](../Evidencias/Captura%20de%20tela%202025-07-21%20205150.png)
 ![21](../Evidencias/Captura%20de%20tela%202025-07-21%20205108.png)
-
-
-
 ![39](../Evidencias/Captura%20de%20tela%202025-07-21%20221019.png)
 ![40](../Evidencias/Captura%20de%20tela%202025-07-21%20221047.png)
 ![41](../Evidencias/Captura%20de%20tela%202025-07-21%20221054.png)
