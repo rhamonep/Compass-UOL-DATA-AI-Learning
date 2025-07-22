@@ -160,12 +160,12 @@ Após explorar os dados disponíveis e catalogados nos CSVs de filmes e séries,
 ![24](../Evidencias/Captura%20de%20tela%202025-07-21%20205150.png)
 ![21](../Evidencias/Captura%20de%20tela%202025-07-21%20205108.png)
 ![39](../Evidencias/Captura%20de%20tela%202025-07-21%20221019.png)
-![40](../Evidencias/Captura%20de%20tela%202025-07-21%20221047.png)
-![41](../Evidencias/Captura%20de%20tela%202025-07-21%20221054.png)
+
 
 ### Script que vai fazer a invocação da função lambda para cada um dos arquivos contidos no caminho prefixado: 
 ---
 ![42](../Evidencias/Captura%20de%20tela%202025-07-21%20221059.png)
+![41](../Evidencias/Captura%20de%20tela%202025-07-21%20221054.png)
 ![43](../Evidencias/Captura%20de%20tela%202025-07-21%20221122.png)
 ![44](../Evidencias/Captura%20de%20tela%202025-07-21%20221126.png)
 ![46](../Evidencias/Captura%20de%20tela%202025-07-21%20224448.png)
