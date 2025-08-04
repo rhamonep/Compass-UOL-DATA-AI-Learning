@@ -89,8 +89,9 @@
 #### etapa 3 - txt
 ![etapa 3 - txt](./Exercicios/Evidencias/Parte%20I%20-%20Geração%20de%20Dados/etapa3%20-%20txt.png)
 
-## Exercicio - Parte 2 - Apache Spark
+---
 
+## Exercicio - Parte 2 - Apache Spark
 
 ### etapa 1  
 ![1 etapa1](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/1%20etapa1.png)
@@ -127,6 +128,99 @@
 
 ![12 etapa10 show part 2](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/12%20etapa10%20show%20part%202.png)
 
+---
+
+## Lab AWS Glue
+
+### nomes csv - s3  
+![1 nomes csv - s3](./Exercicios/Evidencias/Lab%20AWS%20Glue/1%20nomes%20csv%20-%20s3.png)
+
+### role - lab4  
+![2 role - lab4](./Exercicios/Evidencias/Lab%20AWS%20Glue/2%20role%20-%20lab4.png)
+
+### role - permitions  
+![3 role - permitions](./Exercicios/Evidencias/Lab%20AWS%20Glue/3%20role%20-%20permitions.png)
+
+### aws glue - role select  
+![4 aws glue - role select](./Exercicios/Evidencias/Lab%20AWS%20Glue/4%20aws%20glue%20-%20role%20select.png)
+
+### access to bucket s3  
+![5 access to bucket s3](./Exercicios/Evidencias/Lab%20AWS%20Glue/5%20access%20to%20bucket%20s3.png)
+
+### update glue service role  
+![6 update glue service role](./Exercicios/Evidencias/Lab%20AWS%20Glue/6%20update%20glue%20service%20role.png)
+
+### database glue lab  
+![7 database glue lab](./Exercicios/Evidencias/Lab%20AWS%20Glue/7%20database%20glue%20lab.png)
+
+### job spark fresk  
+![8 job spark fresk](./Exercicios/Evidencias/Lab%20AWS%20Glue/8%20job%20spark%20fresk.png)
+
+### job config 1  
+![9 job config 1](./Exercicios/Evidencias/Lab%20AWS%20Glue/9%20job%20config%201.png)
+
+### job config 2  
+![10 job config 2](./Exercicios/Evidencias/Lab%20AWS%20Glue/10%20job%20config%202.png)
+
+### job config 3  
+![11 job config 3](./Exercicios/Evidencias/Lab%20AWS%20Glue/11%20job%20config%203.png)
+
+### job parameters input  
+![12 job parameters input](./Exercicios/Evidencias/Lab%20AWS%20Glue/12%20job%20parameters%20input.png)
+
+### job parameters output  
+![13 job parameters output](./Exercicios/Evidencias/Lab%20AWS%20Glue/13%20job%20parameters%20output.png)
+
+### scriptjob 1  
+![14 scriptjob 1](./Exercicios/Evidencias/Lab%20AWS%20Glue/14%20script%20job%201.png)
+
+### script job 2  
+![15 script job 2](./Exercicios/Evidencias/Lab%20AWS%20Glue/15%20script%20job%202.png)
+
+### script job 3  
+![16 script job 3](./Exercicios/Evidencias/Lab%20AWS%20Glue/16%20script%20job%203.png)
+
+### script job 4  
+![17 scriptjob 4](./Exercicios/Evidencias/Lab%20AWS%20Glue/17%20script%20job%204.png)
+
+### job run result  
+![18 job run result](./Exercicios/Evidencias/Lab%20AWS%20Glue/18%20job%20run%20result.png)
+
+### job run log  
+![19 job run log](./Exercicios/Evidencias/Lab%20AWS%20Glue/19%20job%20run%20log.png)
+
+### job log schema  
+![20 job log schema](./Exercicios/Evidencias/Lab%20AWS%20Glue/20%20job%20log%20schema.png)
+
+### job log lines count and names count  
+![21 job log lines count and names count](./Exercicios/Evidencias/Lab%20AWS%20Glue/21%20job%20log%20lines%20count%20and%20names%20count%20.png)
+
+### job log top1 names and year, top10 names per year  
+![22 job log top1 names and year, top10 names per year](./Exercicios/Evidencias/Lab%20AWS%20Glue/22%20job%20log%20top1%20names%20and%20year,%20top10%20names%20per%20year.png)
+
+### crawler  
+![23 crawler](./Exercicios/Evidencias/Lab%20AWS%20Glue/23%20crawler.png)
+
+### target db  
+![24 target db](./Exercicios/Evidencias/Lab%20AWS%20Glue/24%20target%20db.png)
+
+### crawler starting  
+![25 crawler starting](./Exercicios/Evidencias/Lab%20AWS%20Glue/25%20crawler%20starting.png)
+
+### crawler sucess  
+![26 crawler sucess](./Exercicios/Evidencias/Lab%20AWS%20Glue/26%20crawler%20sucess.png)
+
+### table created  
+![27 table created](./Exercicios/Evidencias/Lab%20AWS%20Glue/27%20table%20created.png)
+
+### athena data  
+![28 athena data](./Exercicios/Evidencias/Lab%20AWS%20Glue/28%20athena%20data.png)
+
+### athena query  
+![29 athena query](./Exercicios/Evidencias/Lab%20AWS%20Glue/29%20athena%20query.png)
+
+### athena query result  
+![30 athena query result](./Exercicios/Evidencias/Lab%20AWS%20Glue/30%20athena%20query%20result.png)
 
 # Certificados
 
