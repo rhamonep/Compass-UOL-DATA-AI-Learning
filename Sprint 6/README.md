@@ -22,6 +22,10 @@
 
 - Nesta série de vídeos, acompanhei exemplos práticos de como usar as ferramentas de análise da AWS. Os tutoriais mostraram passo a passo como configurar serviços, conectar dados e criar consultas para extrair informações. Isso ajudou a entender na prática o funcionamento dos serviços estudados nos cursos.
 
+# Desafio
+
+- [Arquivos](./Desafio/Arquivos/)
+- [README.MD](./Desafio/README.md)
 
 
 # Exercícios
@@ -57,7 +61,7 @@
 
 - Criamos um job Glue via Script Editor, com engine Spark, linguagem Python 3 e 2 workers. O script utilizou o glueContext.spark_session para processar os dados. Parâmetros como S3_INPUT_PATH e S3_TARGET_PATH foram definidos para flexibilizar o código.
 
-- O job leu o arquivo CSV, converteu os nomes para maiúsculo, imprimiu schema, contagem total e agrupada por ano/sexo. Também identificou o nome mais frequente por gênero e escreveu o resultado em formato JSON no S3, particionado por sexo e ano, no caminho s3://<BUCKET>/lab-glue/frequencia_registro_nomes_eua/.
+- O job leu o arquivo CSV, converteu os nomes para maiúsculo, imprimiu schema, contagem total e agrupada por ano/sexo. Também identificou o nome mais frequente por gênero e escreveu o resultado em formato JSON no S3, particionado por sexo e ano.
 
 - Em seguida, criamos um crawler chamado FrequenciaRegistroNomesCrawler apontando para esse diretório. O crawler populou automaticamente a tabela frequencia_registro_nomes_eua no banco glue-lab.
 
@@ -67,7 +71,61 @@
 
 # Evidencias 
 
+## Exercicio - Parte 1 - Geração e massa de dados
 
+
+#### etapa 1
+![etapa 1](./Exercicios/Evidencias/Parte%20I%20-%20Geração%20de%20Dados/etapa1.png)
+
+#### etapa 2
+![etapa 2](./Exercicios/Evidencias/Parte%20I%20-%20Geração%20de%20Dados/etapa2.png)
+
+#### etapa 2 - txt
+![etapa 2 - txt](./Exercicios/Evidencias/Parte%20I%20-%20Geração%20de%20Dados/etapa2%20-%20txt.png)
+
+#### etapa 3
+![etapa 3](./Exercicios/Evidencias/Parte%20I%20-%20Geração%20de%20Dados/etapa3.png)
+
+#### etapa 3 - txt
+![etapa 3 - txt](./Exercicios/Evidencias/Parte%20I%20-%20Geração%20de%20Dados/etapa3%20-%20txt.png)
+
+## Exercicio - Parte 2 - Apache Spark
+
+
+### etapa 1  
+![1 etapa1](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/1%20etapa1.png)
+
+### etapa 2  
+![2 etapa2](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/2%20etapa2.png)
+
+### etapa 3  
+![3 etapa3](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/3%20etapa3.png)
+
+### etapa 4  
+![4 etapa4](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/4%20etapa4.png)
+
+### etapa 5  
+![5 etapa5](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/5%20etapa5.png)
+
+### etapa 6  
+![6 etapa6](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/6%20etapa6.png)
+
+### etapa 7  
+![7 etapa7](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/7%20etapa7.png)
+
+### etapa 8  
+![8 etapa8](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/8%20etapa8.png)
+
+### etapa 9  
+![9 etapa9](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/9%20etapa9.png)
+
+### etapa 10  
+![10 etapa10](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/10%20etapa10.png)
+
+### etapa 10 - Consulta
+![11 etapa10 show part 1](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/11%20etapa10%20show%20part%201.png)
+
+![12 etapa10 show part 2](./Exercicios/Evidencias/Parte%20II%20-%20Apache%20Spark/12%20etapa10%20show%20part%202.png)
 
 
 # Certificados
