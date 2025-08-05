@@ -68,6 +68,7 @@
 - Por fim, validamos os dados no AWS Athena, consultando a tabela com SQL diretamente pelo Glue Catalog.
 
 - [Codigo Job - AWS Glue ](./Exercicios/Arquivos/Lab/job_aws_glue_lab_4.py)
+[jobs criados](./Evidencias/1%20jobs%20criados.png)
 
 # Evidencias 
 
