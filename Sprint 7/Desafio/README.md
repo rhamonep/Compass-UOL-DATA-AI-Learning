@@ -15,7 +15,59 @@
 
 - A camada Refined é a base para análises avançadas e relatórios, integrando todo o conhecimento prático e técnico adquirido no programa.
 
-## Desenvolvimento
+# Desenvolvimento
+
+- Primeiramente vale relembrar que a análise a ser desenvolvida é **"Análise dos fatores determinantes para o sucesso de filmes de baixo orçamento"**
+
+- Dessa forma a ideia é analisar possiveis fatores de popularidade em nossos dados.
+
+- Para isso foi necessário realizar a modelagem dimensional dos dados, com o objetivo de otimizar a visualização e as consultas em ambientes OLAP, facilitando análises rápidas e eficientes.
+
+- Foi utilizada a ferramenta [dbdiagram.io](https://dbdiagram.io/) para realizar a modelagem. Segue o resultado abaixo e também um link diretamente para o diagrama:
+
+![modelagem dimensional](../Evidencias/1_modelo_dimensional.png)
+
+Pode ser acessado [aqui](https://dbdiagram.io/d/modelo_dimensional-68a3180fec93249d1e12388c)
+
+### Estrutura da Modelagem
+
+- O **fato central** da modelagem trata da **popularidade dos filmes**.
+
+#### Dimensões de Interesse
+
+- **Filme**  
+  Utilizado para análise de características específicas das obras.
+
+- **Artista principal**  
+  Foco na presença de determinados atores, considerando também seus filmes mais bem avaliados, com o objetivo de investigar uma possível relação direta com a popularidade dos filmes analisados.
+
+- **País de origem das produtoras**  
+  Considera-se a influência do país produtor, sem necessidade de focar nos nomes específicos das empresas.
+
+- **Tempo**  
+  Análise por período, considerando trimestres e especialmente **períodos de férias escolares** (dezembro/janeiro e junho/julho), que podem impactar diretamente a recepção do público.
+
+#### Métricas no Fato
+
+- **Indicadores monetários**
+  - Orçamento
+  - Receita
+
+- **Recepção do público**
+  - Número de votos
+  - Média das avaliações
+  - Nota ponderada
+
+- **Composição da equipe técnica e artística**
+  - Quantidade de **atores, compositores, diretores e escritores**
+  - Classificação por faixas de **popularidade**:
+    - De 0 a 3
+    - De 3 a 7
+    - De 7 a 10
+
+- O modelo adota a arquitetura estrela da modelagem dimensional, o que facilita consultas analíticas otimizadas e permite o particionamento eficiente dos dados com base na dimensão de tempo.
+
+### Desenvolvimento do Glue job em Spark
 
 - Inicialmente, temos as importações das bibliotecas padrão no modelo de um job Glue, além de bibliotecas e funções utilizadas para manipulação dos dados em Spark:
 
