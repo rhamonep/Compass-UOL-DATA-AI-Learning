@@ -1,6 +1,6 @@
 # Resumo da Sprint
 
-- Resumo
+- Apenas o README.md do desafio possui informações. Nessa sprint por conta do meu mal gerenciamento de tempo no desenvolvimento e a dificuldade na gravação do video da entrega, não consegui entregar o repositório com sucesso. Apenas os arquivos relecionados ao desafio estarão presentes.
 
 # Desafio
 
