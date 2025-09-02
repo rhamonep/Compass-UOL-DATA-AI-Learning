@@ -36,7 +36,7 @@ Além do desenvolvimento da etapa final do projeto para esta sprint, informo que
 
 **"Mapeamento de Palavras-chave Relevantes por Frequência e Retorno em Filmes de Drama e Romance"**.
 
-Dessa forma, todas as etapas e entregas anteriores foram **refeitas** e **reexecutadas** conforme as especificações de cada etapa. Todo o processo será evidenciado e detalhado, e os arquivos de código estão disponíveis.
+Dessa forma, todas as etapas e entregas anteriores foram **refeitas** e **reexecutadas** conforme as especificações de cada etapa. Todo o processo será evidenciado e detalhado junto com o desafio dessa sprint, no [README.MD](./Desafio/README.md), e os arquivos de código também vão estar disponíveis.
 
 - [Arquivos](./Desafio/Arquivos/)
 - [README.MD](./Desafio/README.md)
