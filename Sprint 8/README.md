@@ -60,28 +60,28 @@ Abaixo estarão as evidencias de cada passo realizado para desenvolver o exercic
 ## Lab Amazon QuickSight
 
 
-![1_new_analysis](./Evidencias/Lab%20Amazon%20QuickSight/1_new_analysis.png)  
+![1_new_analysis](./Exercicios/Evidencias/Lab%20Amazon%20QuickSight/1_new_analysis.png)  
 Criação da analise dos dados.
 
-![2_new_dataset](./Evidencias/Lab%20Amazon%20QuickSight/2_new_dataset.png)  
+![2_new_dataset](./Exercicios/Evidencias/Lab%20Amazon%20QuickSight/2_new_dataset.png)  
 Criação do novo conjunto de dados.
 
-![3_upload_file](./Evidencias/Lab%20Amazon%20QuickSight/3_upload_file.png)  
+![3_upload_file](./Exercicios/Evidencias/Lab%20Amazon%20QuickSight/3_upload_file.png)  
 Upload do arquivo de dados csv (**web-and-social-analytics.csv**). 
 
-![4_confirm_ulpload](./Evidencias/Lab%20Amazon%20QuickSight/4_confirm_ulpload.png)  
+![4_confirm_ulpload](./Exercicios/Evidencias/Lab%20Amazon%20QuickSight/4_confirm_ulpload.png)  
 Confirmação do upload realizado.
 
-![5_visualize](./Evidencias/Lab%20Amazon%20QuickSight/5_visualize.png)  
+![5_visualize](./Exercicios/Evidencias/Lab%20Amazon%20QuickSight/5_visualize.png)  
 Confirmação da visualização dos dados.
 
-![6_autograph_date_mailing_list_adds](./Evidencias/Lab%20Amazon%20QuickSight/6_autograph_date_mailing_list_adds.png)  
+![6_autograph_date_mailing_list_adds](./Exercicios/Evidencias/Lab%20Amazon%20QuickSight/6_autograph_date_mailing_list_adds.png)  
 Análise de adições na lista de emails por data (dia).
 
-![7_date_agg_month](./Evidencias/Lab%20Amazon%20QuickSight/7_date_agg_month.png)  
+![7_date_agg_month](./Exercicios/Evidencias/Lab%20Amazon%20QuickSight/7_date_agg_month.png)  
 Agregação dos dados por mês.
 
-![8_autograph_by_month](./Evidencias/Lab%20Amazon%20QuickSight/8_autograph_by_month.png)  
+![8_autograph_by_month](./Exercicios/Evidencias/Lab%20Amazon%20QuickSight/8_autograph_by_month.png)  
 Resultado final do gráfico.
 
 
