@@ -1,12 +1,12 @@
 # Etapas
 
-- Desenvolvimento da View e Dashboard final:
+Desenvolvimento da View e Dashboard final:
 
 1. [[ Etapa 1 ] - Athena (View)](./Arquivos/Quicksight%20-%20View)
 
 2. [[ Etapa 2 ] - Dashboard](./Arquivos/Dashboard/)
 
-- Desenvolvimento dos novos códigos para atender aos requisitos das etapas anteriores do projeto: A estrutura dos códigos está organizada conforme as camadas do projeto, disponíveis nos respectivos diretórios:
+Desenvolvimento dos novos códigos para atender aos requisitos das etapas anteriores do projeto: A estrutura dos códigos está organizada conforme as camadas do projeto, disponíveis nos respectivos diretórios:
 
 1. [Camada RAW](./Arquivos/Raw/)
 
@@ -14,9 +14,9 @@
 
 3. [Camada Refined](./Arquivos/Refined/)
 
-- Os códigos foram completamente reestruturados para seguir as boas práticas de desenvolvimento. Durante a revisão da análise anterior, identifiquei que o código original estava pouco organizado, com funções pouco modularizadas e subfunções não simplificadas.
+Os códigos foram completamente reestruturados para seguir as boas práticas de desenvolvimento. Durante a revisão da análise anterior, identifiquei que o código original estava pouco organizado, com funções pouco modularizadas e subfunções não simplificadas.
 
-- Agora, todos os scripts foram readequados para um padrão de qualidade superior, com funções bem definidas e responsabilidades claras, facilitando a manutenção e o entendimento.
+Agora, todos os scripts foram readequados para um padrão de qualidade superior, com funções bem definidas e responsabilidades claras, facilitando a manutenção e o entendimento.
 
 # Desafio Apresentado
 
