@@ -26,8 +26,8 @@
 
 - Foi iniciado o desenvolvimento do dashboard, com foco em apresentar as análises de forma clara e visualmente organizada.  Alguns ajustes e melhorias foram feitos ao longo do processo, até chegar à versão que seria utilizada para a gravação em vídeo.
 
-- Devido a um **gerenciamento de tempo inadequado** e à **subestimação da complexidade** envolvida na construção do dashboard, esta entrega encontra-se **significativamente incompleta** e sem evidencias para demonstrar o progresso realizado.
-
+- Devido a um **gerenciamento de tempo inadequado** e à **subestimação da complexidade** envolvida na construção do dashboard, esta entrega encontra-se **significativamente incompleta** e sem evidencias para demonstrar o progresso realizado. 
 
 # Resultados
+
 
