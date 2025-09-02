@@ -98,11 +98,11 @@ Por isso, buscamos keywords que combinem dois critérios essenciais:
 
 **Exemplo:** uma keyword com ROI médio de 25.0 presente em apenas 2 filmes é um potencial outlier, pois sua representatividade é baixa e pode distorcer a análise. Já uma keyword com ROI de 3.5 presente em 50 ou mais filmes representa uma tendência mais confiável e estável, refletindo um padrão consolidado.
 
+![Dashboard princpal](../Evidencias/2_Dashboard_completo.png)
+
 O dashboard facilita a identificação visual desses casos, já que as palavras-chave com poucos filmes aparecem com barras pequenas no gráfico de "Quantidade de Filmes por Keyword". Além disso, o filtro lateral de "Quantidade mínima de filmes por keyword" permite remover rapidamente esses outliers da análise, ajustando dinamicamente os gráficos com base em critérios definidos pelo usuário e promovendo uma análise mais precisa e confiável.
 
 ## Navegação no Dashboard
-
-![Dashboard princpal](../Evidencias/2_Dashboard_completo.png)
 
 O dashboard foi planejado para oferecer uma experiência de análise intuitiva e fluida. Seu layout foi propositalmente estruturado em uma única tela enxuta, para que todas as informações relevantes estivessem visíveis de forma simultânea e conectada, eliminando a necessidade de múltiplas abas ou páginas.
 
@@ -119,6 +119,9 @@ Na lateral esquerda, há um conjunto adicional de filtros importantes para refin
 Esses filtros laterais são fundamentais para garantir que a análise se concentre nas palavras-chave mais relevantes e confiáveis para tomada de decisão, personalizando o escopo conforme a necessidade do usuário.
 
 ## Estrutura do Dashboard
+
+![Dashboard princpal](../Evidencias/2_Dashboard_completo.png)
+
 
 A disposição dos elementos no dashboard segue uma lógica pensada para comparação rápida e análise eficiente, com destaque para os seguintes componentes:
 
@@ -181,4 +184,53 @@ O dashboard foi construído com foco em clareza, eficiência e interatividade. A
 
 Com isso, torna-se uma ferramenta estratégica para identificar palavras-chave com real potencial comercial, evitando distorções por outliers e priorizando insights consistentes e acionáveis dentro do universo de filmes de Drama e Romance, contribuindo para decisões mais seguras e baseadas em dados sólidos.
 
-# Resultados
+# Resultados da Análise
+
+Após a aplicação dos filtros de quantidade mínima de filmes, selecionamos as 5 palavras-chave mais relevantes no período de 2000 a 2022. Essas palavras-chave foram escolhidas com base na frequência de ocorrência e desempenho de ROI (Retorno sobre Investimento), mantendo-se dentro dos critérios mínimos estabelecidos.
+
+As cinco palavras-chave com maior destaque foram:
+
+1. **Based on Novel or Book**  
+2. **Based on True Story**  
+3. **Woman Director**  
+4. **Biography**  
+5. **New York City**
+
+Abaixo estão os gráficos que demonstram o comportamento do ROI médio ao longo do tempo para cada uma dessas palavras-chave:
+
+- **Based on Novel or Book**  
+  ![top1](../Evidencias/5_resultado_top1.png)
+
+- **Based on True Story**  
+  ![top2](../Evidencias/6_resultado_top2.png)
+
+- **Woman Director**  
+  ![top3](../Evidencias/7_resultado_top3.png)
+
+- **Biography**  
+  ![top4](../Evidencias/8_resultado_top4.png)
+
+- **New York City**  
+  ![top5](../Evidencias/9_resultado_top5.png)
+
+---
+
+A palavra-chave **"Based on Novel or Book"** se destacou como a mais consistente em termos de ROI ao longo dos anos. Mesmo com algumas variações naturais, ela se manteve, em sua maioria, acima da linha de ROI 1.4 — o que indica rentabilidade — em diversos anos. Esse comportamento sugere que filmes baseados em livros ou romances tendem a ter um desempenho mais estável e previsível no mercado, provavelmente por já possuírem um público pré-estabelecido.
+
+### Outros Destaques Relevantes
+As demais palavras-chave também apresentaram desempenhos positivos, mas com mais oscilações:
+
+- **Based on True Story** mostrou altos picos de ROI (acima de 5 em 2010, por exemplo), mas não com a mesma regularidade de "Based on Novel or Book".
+- **Woman Director** teve excelentes resultados em anos específicos, como entre 2000 e 2004, mas com alguns períodos de inatividade ou desempenho mais modesto.
+- **Biography** também teve bons momentos, especialmente entre 2014 e 2016, chegando a um ROI próximo de 5.46.
+- **New York City**, apesar de estar entre as mais frequentes, teve o menor ROI médio entre as cinco, com performance mais irregular e limitada.
+
+---
+
+## Conclusão da Análise
+
+Com base na análise quantitativa (quantidade de filmes) e qualitativa (ROI médio por ano), concluímos que **"Based on Novel or Book" é a palavra-chave mais relevante do período de 2000 a 2022**, tanto por sua constância quanto por seu ROI elevado ao longo do tempo.
+
+Essa consistência indica que o uso desta keyword está associado a um melhor desempenho financeiro, tornando-a um forte indicativo de sucesso para futuros projetos cinematográficos.
+
+As demais keywords analisadas também mostram potencial, principalmente em nichos e contextos específicos, sendo importantes para análises complementares e estratégias de segmentação de mercado.
