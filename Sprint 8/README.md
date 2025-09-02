@@ -8,16 +8,6 @@
 
 ---
 
-## AWS Skill Builder – *Amazon QuickSight: Getting Started*
-
-- Este curso introdutório apresentou os primeiros passos para utilizar o Amazon QuickSight, destacando como criar análises simples e compreender a lógica de funcionamento da ferramenta.
-
-- O conteúdo abordou a navegação pela interface, a importação de conjuntos de dados e a criação de visualizações básicas. Também foram exploradas funções iniciais de filtros, ordenação e organização de gráficos, além de práticas para explorar os dados de maneira eficiente.
-
-- A introdução permitiu compreender como estruturar análises a partir de dados já disponíveis, preparando a base para avançar para funcionalidades mais completas da ferramenta em contextos reais de BI.
-
----
-
 ## Udemy – *Complete Introduction to Amazon QuickSight*
 
 - Este curso apresentou uma abordagem completa e prática sobre o uso do Amazon QuickSight, com foco na criação de dashboards interativos e relatórios analíticos com visualização clara e eficiente.
@@ -30,7 +20,23 @@
 
 ---
 
+## AWS Skill Builder – *Amazon QuickSight: Getting Started*
+
+- Este curso introdutório apresentou os primeiros passos para utilizar o Amazon QuickSight, destacando como criar análises simples e compreender a lógica de funcionamento da ferramenta.
+
+- O conteúdo abordou a navegação pela interface, a importação de conjuntos de dados e a criação de visualizações básicas. Também foram exploradas funções iniciais de filtros, ordenação e organização de gráficos, além de práticas para explorar os dados de maneira eficiente.
+
+- A introdução permitiu compreender como estruturar análises a partir de dados já disponíveis, preparando a base para avançar para funcionalidades mais completas da ferramenta em contextos reais de BI.
+
+---
+
 # Desafio
+
+Além do desenvolvimento da etapa final do projeto para esta sprint, informo que optei por alterar a minha análise para:
+
+**"Mapeamento de Palavras-chave Relevantes por Frequência e Retorno em Filmes de Drama e Romance"**.
+
+Dessa forma, todas as etapas e entregas anteriores foram **refeitas** e **reexecutadas** conforme as especificações de cada etapa. Todo o processo será evidenciado e detalhado, e os arquivos de código estão disponíveis.
 
 - [Arquivos](./Desafio/Arquivos/)
 - [README.MD](./Desafio/README.md)
