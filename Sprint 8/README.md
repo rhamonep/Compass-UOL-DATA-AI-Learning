@@ -55,7 +55,7 @@ Dessa forma, todas as etapas e entregas anteriores foram **refeitas** e **reexec
 
 # Evidencias
 
-- Abaixo estarão as evidencias de cada passo realizado para desenvolver o exercicio.
+Abaixo estarão as evidencias de cada passo realizado para desenvolver o exercicio.
 
 ## Lab Amazon QuickSight
 
