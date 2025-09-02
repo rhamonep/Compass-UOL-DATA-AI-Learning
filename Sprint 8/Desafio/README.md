@@ -2,7 +2,7 @@
 
 Desenvolvimento da View e Dashboard final:
 
-1. [[ Etapa 1 ] - Athena (View)](./Arquivos/Quicksight%20-%20View)
+1. [[ Etapa 1 ] - Athena (View)](./Arquivos/Athena%20-%20View/)
 
 2. [[ Etapa 2 ] - Dashboard](./Arquivos/Dashboard/)
 
